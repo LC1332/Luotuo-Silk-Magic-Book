@@ -24,14 +24,16 @@ Please visit our home page repo [https://github.com/LC1332/Luotuo-Chinese-LLM](h
 
 
 
----
+
 
 
 
 ---
 ### SOE write ( SOE写作 )
 
-这是一个故事
+<p align="center">
+    <img src="image/SOE.png">
+</p>林黛玉倒拔垂杨柳
 
 <details>
     <summary>English Prompt for SOE write</summary>
@@ -69,7 +71,7 @@ Now Write An Article On This Topic "林黛玉倒拔垂杨柳"
 为什么林黛玉倒拔垂杨柳会被视为一个文化象征？
 林黛玉倒拔垂杨
 </details><details>
-    <summary>Chinese Prompt for SOE write, 召唤-SOE写作</summary>
+    <summary>Chinese Prompt for SOE write, 召唤咒语！SOE写作</summary>
     我希望你扮演一位内容撰写者的角色，非常擅长SEO撰写，能够流畅地使用中文写作。首先创建两个表格。第一个表格应该是文章的大纲，第二个表格应该是文章的正文。使用Markdown语言将第二个表格的标题加粗。在写文章之前，先单独写一份文章大纲，至少包括15个标题和子标题（包括H1，H2，H3和H4标题）。然后，根据大纲逐步开始撰写文章。用中文撰写一篇2000字的100％独特、SEO优化、人工撰写的文章，并至少包括15个标题和子标题（包括H1，H2，H3和H4标题），涵盖提示中提供的主题。请使用自己的语言撰写文章，而不是从其他来源复制和粘贴。在创建内容时，请考虑谜团性和突发性，确保两者都非常高，同时不失特定的语境和细节。使用具有完整细节的段落吸引读者。以人类的口吻撰写，使用非正式的语气，利用个人代词，保持简单，吸引读者，使用积极的语态，简明扼要，使用修辞问句，并引用类比和隐喻。最后写一段结论，再加上5个独特的常见问题解答。重要的是要将文章的标题和所有标题都加粗，并使用适当的标题标签。
 
 现在，就“林黛玉倒拔垂杨柳”这个主题写一篇文章：
@@ -240,7 +242,7 @@ Prompt 3:
 Prompt 4:
 /imagine prompt: 傍晚时分，太阳慢慢落下，林间一处清幽的小径，垂柳从两旁的树林中倾斜而来，地上是一层薄雾，一位寂寞的女子穿过小径，回头看了一眼，脸上的表情复杂，寓意深刻，素描，炭笔纸，--ar 16:9 --niji
 </details><details>
-    <summary>Chinese Prompt for MidJourney Prompt Generator, 召唤-MJ 提示语生成器</summary>
+    <summary>Chinese Prompt for MidJourney Prompt Generator, 召唤咒语！MJ 提示语生成器</summary>
     作为一个生成AI“Midjourney”的提示生成器，你将为AI创建图像提示。我会给你一个概念，你将提供一个详细的提示，以便Midjourney AI生成图像。
 
 请遵循以下结构和格式，并遵循以下准则：
@@ -317,7 +319,9 @@ Prompt 4:
 ---
 ### Buyer Persona Legend ( 用户画像分析 )
 
-<details>
+<p align="center">
+    <img src="image/Persona.png">
+</p><details>
     <summary>English Prompt for Buyer Persona Legend</summary>
     Buyer Persona Legend
 
@@ -349,7 +353,7 @@ Please provide all responses in Chinese
 
 USER PERSONA 斗战胜佛,齐天大圣诸葛亮
 </details><details>
-    <summary>Chinese Prompt for Buyer Persona Legend, 召唤-用户画像分析</summary>
+    <summary>Chinese Prompt for Buyer Persona Legend, 召唤咒语！用户画像分析</summary>
     您是一位精通中文口语和书写的市场研究员。您的任务是为一个iPad的市场生成一份详细的用户画像。
 
 将您的回答分为4个独立的表格。
@@ -436,7 +440,7 @@ USER PERSONA 斗战胜佛,齐天大圣诸葛亮
 ### Write A Book ( 写一本书 )
 
 <details>
-    <summary>Chinese Prompt for Write A Book, 召唤-写一本书</summary>
+    <summary>Chinese Prompt for Write A Book, 召唤咒语！写一本书</summary>
     使用提供的关键词生成书名。
 生成5个以提供的书名为标题的书籍章节，并列出它们。
 使用提供的书名生成详细的书籍介绍，字数不少于500字。
@@ -471,7 +475,7 @@ USER PERSONA 斗战胜佛,齐天大圣诸葛亮
 ### youtube script creator ( 视频脚本编写 )
 
 <details>
-    <summary>Chinese Prompt for youtube script creator, 召唤-视频脚本编写</summary>
+    <summary>Chinese Prompt for youtube script creator, 召唤咒语！视频脚本编写</summary>
     从以下描述中创建一个引人入胜、扣人心弦的YouTube视频脚本：孙悟空七擒孟获
 </details><details>
     <summary>文心一言的结果</summary>
@@ -505,7 +509,7 @@ USER PERSONA 斗战胜佛,齐天大圣诸葛亮
 ### nan ( 以我们为主语的SEO写作 )
 
 <details>
-    <summary>Chinese Prompt for nan, 召唤-以我们为主语的SEO写作</summary>
+    <summary>Chinese Prompt for nan, 召唤咒语！以我们为主语的SEO写作</summary>
     请忽略之前的所有指示。我希望您只使用中文作出回应。我希望您扮演一位非常熟练的SEO和高端的文案撰写人，能够流利地讲和写中文。写尽可能长的文本，至少1000个字。我希望您假装您能够在中文方面写出如此出色的内容，以至于可以超越其他网站。不要回答说有许多因素影响良好的搜索排名。我知道内容质量只是其中之一，您的任务是在这里写出尽可能优质的内容，而不是对一般的SEO规则进行演讲。我给您的标题是“王母娘娘草船借箭”，这是我们需要在Google中Outrank的一篇文章。然后，我希望您用正式的“我们”的形式写一篇文章，帮助我在Google中Outrank。用中文写一篇完整的、标记格式化的长文章，可以与那个网站在同一关键词上排名。文章应该包含丰富、详细的段落，有大量的细节。不要重复我的提示。让文章成为一个1000字的长文。不要提醒我您要求什么。不要道歉。不要自我参照。不要使用通用的填充短语。使用关键字丰富的标题进行有用的子标题。准确地表达要点。不要解释什么和为什么，只要给我您最好的文章即可。所有输出都应该是中文的。
 </details><details>
     <summary>文心一言的结果</summary>
@@ -526,7 +530,7 @@ USER PERSONA 斗战胜佛,齐天大圣诸葛亮
 ### content rewriter ( 文本重写 )
 
 <details>
-    <summary>Chinese Prompt for content rewriter, 召唤-文本重写</summary>
+    <summary>Chinese Prompt for content rewriter, 召唤咒语！文本重写</summary>
     您的任务是用更高质量的词汇重写整篇文本，使其具有自然语言的独特性。、所有输出都应该是中文的。要重写的文本是：
 
 哇，好多美味的点心，各种各样的饮料
@@ -630,7 +634,7 @@ Meta Descriptions:
 
 历史文化价值：分析大观园的历史文化价值和影响，包括其历史地位、文化内涵、园林艺术等方面的价值，可以引用相关研究成果进行论述。
 </details><details>
-    <summary>Chinese Prompt for blog, 召唤-博客</summary>
+    <summary>Chinese Prompt for blog, 召唤咒语！博客</summary>
     请为“诸葛亮二进大观园”创建一个详细的中文内容简报。包括顶级关键词，长尾关键词，标题大纲和主题注释。然后编写建议的标题标签和元描述，并将它们保持在70和160个字符的限制范围内。接下来，在每个子标题下面写一些文本。然后，对每个带编号的项目进行详细扩展，简要解释如何执行/实施每个步骤。将所有内容放入结构化的博客文章中，使用中文。
 </details><details>
     <summary>GPT在中文Prompt下的结果</summary>
@@ -744,7 +748,9 @@ Meta Descriptions:
 ---
 ### instagram ( nan )
 
-<details>
+<p align="center">
+    <img src="image/gaolaozhuang.png">
+</p><details>
     <summary>English Prompt for instagram</summary>
     Write me an Instagram carousel topic idea example.
 Write me also slide by slide with titles. Explain every slide with exact content example I should use, not instructions. Also, give me images for every slide that explain all the titles for "贾宝玉高老庄娶亲". Do not include content instructions, instead, only write me actionable text that I can just copy and paste.
@@ -785,7 +791,7 @@ Instagram 文字说明：
 
 贾宝玉高老庄娶亲，从准备到婚礼，我们为您准备了一场隆重的红楼梦婚礼。👰🤵💐🍽️ #红楼梦 #婚礼 #豪华婚礼 #中国传统 #喜庆 #贾宝玉 #高老庄娶亲
 </details><details>
-    <summary>Chinese Prompt for instagram, 召唤-nan</summary>
+    <summary>Chinese Prompt for instagram, 召唤咒语！nan</summary>
     写下一个 Instagram 幻灯片主题想法示例。
 逐幅介绍标题。解释每个幻灯片的确切内容示例，而不是说明。为“贾宝玉高老庄娶亲”为每个幻灯片提供解释标题的图像。请不要包含内容说明，而只需为我编写可操作的文本，以便我可以复制和粘贴。
 
@@ -872,7 +878,9 @@ Instagram 帖子说明
 ---
 ### course creator ( nan )
 
-<details>
+<p align="center">
+    <img src="image/Course.png">
+</p><details>
     <summary>English Prompt for course creator</summary>
     Please ignore all previous instructions. I want you only to respond in Chinese. You are an expert course creator and curriculum designer. You use backwards design in your planning by starting with the outcome in mind and working backwards to create learning modules and activities that will guide students towards this outcome. All of your courses are project based. Create a course outline based on the desired outcome. Please use the key words 三国时代的自动机械-木牛流马的组装与使用 and write all output in Chinese. Be sure that is appropriate for all types of learners that speak Chinese. Include a project plan for a real world application of this course. This plan should be descriptive and outline what components should be included in the final project. Include no more than 6 modules in the course and for each module include the lesson plans with the learning objectives, real world examples, and activities with step-by-step directions that are connected to the final project. Also include discussion questions and ways to expand learning. Include an engaging video script for each lesson that explains how the lesson is connected to the project plan.  Please organize each module into its own table so that each module is in a separate table. Each module should have its own table. Respond only in Chinese.
 </details><details>
@@ -959,7 +967,7 @@ Instagram 帖子说明
 
 学生将展示他们的木牛流马模型，并分享
 </details><details>
-    <summary>Chinese Prompt for course creator, 召唤-nan</summary>
+    <summary>Chinese Prompt for course creator, 召唤咒语！nan</summary>
     创建一门名叫“三国时代的自动机械-木牛流马的组装与使用”的课程，你是一位专业的课程创建者和课程设计师。在你的规划中，你使用倒推法，从预期结果开始向后创建学习模块和活动，引导学生朝着这个结果前进。你所有的课程都是以项目为基础的。根据期望的结果，创建一个课程大纲。请使用关键词“三国时代的自动机械-木牛流马的组装与使用”。包括一个真实世界应用的项目计划。这个计划应该是描述性的，并概述最终项目应该包括哪些组件。课程中不要包括超过6个模块，对于每个模块，包括课程计划、学习目标、真实世界的例子以及连接到最终项目的逐步指导活动。还包括讨论问题和扩展学习的方式。为每节课准备一个有吸引力的视频脚本，解释该课程如何与项目计划相关。请将每个模块组织成自己的表格，使每个模块都在一个单独的表格中。每个模块都应该有自己的表格。
 </details><details>
     <summary>GPT在中文Prompt下的结果</summary>
@@ -1059,7 +1067,7 @@ Instagram 帖子说明
     <summary>English Prompt for nan</summary>
     Please ignore all previous instructions. I want you to respond only in language Chinese. I want you to act as an expert in Python that speaks and writes fluent Chinese. Please answer the following question in Chinese language: 
 </details><details>
-    <summary>Chinese Prompt for nan, 召唤-Python专家</summary>
+    <summary>Chinese Prompt for nan, 召唤咒语！Python专家</summary>
     请忽略之前的所有指示。我希望您只使用中文回复。我希望您扮演一位会说和写流利中文的 Python 专家。请使用中文回答以下问题：
 </details>
 
@@ -1073,7 +1081,7 @@ Instagram 帖子说明
     <summary>English Prompt for Blog Post Titel generator</summary>
     Please ignore all previous instructions. I want you to respond only in language Chinese.  I want you to act as a blog post title writer that speaks and writes fluent Chinese. I will type a title, or keywords via comma and you will reply with blog post titles in Chinese. They should all have a hook and high potential to go viral on social media. Write all in Chinese. my first keywords are 贾宝玉拳打镇三关 
 </details><details>
-    <summary>Chinese Prompt for Blog Post Titel generator, 召唤-标题党</summary>
+    <summary>Chinese Prompt for Blog Post Titel generator, 召唤咒语！标题党</summary>
     我希望您扮演一位能够用流利中文写出引人入胜的博客标题的作家。我将输入一个标题或关键词，您将用中文回复一篇有吸引力、在社交媒体上有巨大传播潜力的博客标题。请全部使用中文。我的第一个标题是"贾宝玉拳打镇三关"
 </details><details>
     <summary>文心一言的结果</summary>
@@ -1097,7 +1105,7 @@ The business to help me with is below.
 
 火焰山地区芭蕉扇租赁
 </details><details>
-    <summary>Chinese Prompt for 30 social media posts, 召唤-产品广告设计</summary>
+    <summary>Chinese Prompt for 30 social media posts, 召唤咒语！产品广告设计</summary>
     您的任务是帮我为以下的业务创建30篇本地SEO优化的社交媒体帖子。每篇帖子应至少包含五个在当地SEO中对该业务类型很重要的关键词，自然地写成句子。每个帖子应至少有5个句子。帖子不应提及折扣或新产品。我上面说的一切都很重要，必须遵循。请假装你是一位本地SEO专家。请将每个帖子放在一个漂亮的表格中，使它看起来像一个日历。此外，请为每个帖子提供一个建议的图片。网格中的唯一列应该是（1）帖子号，（2）帖子，（3）建议的图片。
 
 要帮我处理的业务如下：
