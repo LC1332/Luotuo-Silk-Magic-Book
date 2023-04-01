@@ -3,6 +3,6 @@
 故事背景
 
 <details>
-    <summary>  Prompt </summary>
+    <summary>  English Prompt for EngTitle </summary>
     promptCCC
 </details>
