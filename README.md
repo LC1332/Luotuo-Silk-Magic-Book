@@ -31,7 +31,9 @@ Please visit our home page repo [https://github.com/LC1332/Luotuo-Chinese-LLM](h
 ---
 ### SOE write ( SOE写作 )
 
-林黛玉倒拔垂杨柳
+<p align="center">
+    <img src="image/SOE.png">
+</p>林黛玉倒拔垂杨柳
 
 <details>
     <summary>English Prompt for SOE write</summary>
