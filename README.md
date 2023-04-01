@@ -27,3 +27,11 @@ Please visit our home page repo [https://github.com/LC1332/Luotuo-Chinese-LLM](h
 
 
 hello world
+### EngTitle( 中文标题 )
+
+故事背景
+
+<details>
+    <summary>  Prompt </summary>
+    promptCCC
+</details>
