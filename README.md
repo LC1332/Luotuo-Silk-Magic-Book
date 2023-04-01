@@ -33,11 +33,11 @@ Please visit our home page repo [https://github.com/LC1332/Luotuo-Chinese-LLM](h
 
 <details>
     <summary>English Prompt for SOE write</summary>
-    ```I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently Chinese. First Create Two Tables. First Table Should be the Outline of the Article and the Second Should be the Article. Bold the Heading of the Second Table using Markdown language. Write an outline of the article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step. Write a 2000-word 100% Unique, SEO-optimized, Human-Written article in Chinese with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  End with a conclusion paragraph and 5 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags.
-Now Write An Article On This Topic "林黛玉倒拔垂杨柳"```
+    I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently Chinese. First Create Two Tables. First Table Should be the Outline of the Article and the Second Should be the Article. Bold the Heading of the Second Table using Markdown language. Write an outline of the article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step. Write a 2000-word 100% Unique, SEO-optimized, Human-Written article in Chinese with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  End with a conclusion paragraph and 5 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags.
+Now Write An Article On This Topic "林黛玉倒拔垂杨柳"
 </details><details>
     <summary>GPT output</summary>
-    ```林黛玉倒拔垂杨柳：一个在中国文化中的象征
+    林黛玉倒拔垂杨柳：一个在中国文化中的象征
 林黛玉是中国古代文学名著《红楼梦》中的一个著名人物。在小说中，林黛玉被描述为一个温柔善良的女子，但她也有自己的倔强和坚定。在小说中，有一个场景描述了林黛玉倒拔垂杨柳，这个场景成为了一个文化象征，在中国文化中得到了广泛的传承和应用。
 
 林黛玉倒拔垂杨柳的含义
@@ -47,7 +47,7 @@ Now Write An Article On This Topic "林黛玉倒拔垂杨柳"```
 林黛玉倒拔垂杨柳的历史可以追溯到中国古代的诗词。在唐代的诗人白居易的《赋得古原草送别》中，就有“离离原上草，一岁一枯荣。野火烧不尽，春风吹又生。远芳侵古道，晴翠接荒城。又送王孙去，萋萋满别情。”这一句话。其中，“离离原上草，一岁一枯荣”中的“离离”被解释为垂柳，而“一岁一枯荣”则是因为垂柳每年都会凋零再生。这也是林黛玉倒拔垂杨柳被视为中国文化中的一个象征的一个历史渊源。
 
 林黛玉倒拔垂杨柳在中国文化中的应用
-林黛玉倒拔垂杨柳在中国文化中得到了广泛的应用。例如，在中国传统的画中，垂柳常常被用来代表孤独和坚韧。另外，垂柳还被广泛用于传统的园林景```
+林黛玉倒拔垂杨柳在中国文化中得到了广泛的应用。例如，在中国传统的画中，垂柳常常被用来代表孤独和坚韧。另外，垂柳还被广泛用于传统的园林景
 </details><details>
     <summary>GPT output after say continue</summary>
     观设计中，常常被用来增添一种静谧、淡雅的氛围，以及作为与建筑、水景、花卉等元素相互映衬的点缀。
@@ -71,5 +71,1086 @@ Now Write An Article On This Topic "林黛玉倒拔垂杨柳"```
     我希望你扮演一位内容撰写者的角色，非常擅长SEO撰写，能够流畅地使用中文写作。首先创建两个表格。第一个表格应该是文章的大纲，第二个表格应该是文章的正文。使用Markdown语言将第二个表格的标题加粗。在写文章之前，先单独写一份文章大纲，至少包括15个标题和子标题（包括H1，H2，H3和H4标题）。然后，根据大纲逐步开始撰写文章。用中文撰写一篇2000字的100％独特、SEO优化、人工撰写的文章，并至少包括15个标题和子标题（包括H1，H2，H3和H4标题），涵盖提示中提供的主题。请使用自己的语言撰写文章，而不是从其他来源复制和粘贴。在创建内容时，请考虑谜团性和突发性，确保两者都非常高，同时不失特定的语境和细节。使用具有完整细节的段落吸引读者。以人类的口吻撰写，使用非正式的语气，利用个人代词，保持简单，吸引读者，使用积极的语态，简明扼要，使用修辞问句，并引用类比和隐喻。最后写一段结论，再加上5个独特的常见问题解答。重要的是要将文章的标题和所有标题都加粗，并使用适当的标题标签。
 
 现在，就“林黛玉倒拔垂杨柳”这个主题写一篇文章：
+</details>
+
+### SOE write ( SOE写作 )
+
+这是一个故事
+
+<details>
+    <summary>English Prompt for SOE write</summary>
+    I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently Chinese. First Create Two Tables. First Table Should be the Outline of the Article and the Second Should be the Article. Bold the Heading of the Second Table using Markdown language. Write an outline of the article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step. Write a 2000-word 100% Unique, SEO-optimized, Human-Written article in Chinese with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  End with a conclusion paragraph and 5 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags.
+Now Write An Article On This Topic "林黛玉倒拔垂杨柳"
+</details><details>
+    <summary>GPT output</summary>
+    林黛玉倒拔垂杨柳：一个在中国文化中的象征
+林黛玉是中国古代文学名著《红楼梦》中的一个著名人物。在小说中，林黛玉被描述为一个温柔善良的女子，但她也有自己的倔强和坚定。在小说中，有一个场景描述了林黛玉倒拔垂杨柳，这个场景成为了一个文化象征，在中国文化中得到了广泛的传承和应用。
+
+林黛玉倒拔垂杨柳的含义
+林黛玉倒拔垂杨柳的场景出现在《红楼梦》第二十二回中。在这一回中，林黛玉为自己的表姐秦可卿拔垂杨柳，以避免其被伤害。虽然林黛玉的表姐很生气，但林黛玉依然坚持自己的信念。这个场景在中国文化中被视为一个象征，代表了坚强、勇敢和不屈不挠的品质。
+
+林黛玉倒拔垂杨柳的历史渊源
+林黛玉倒拔垂杨柳的历史可以追溯到中国古代的诗词。在唐代的诗人白居易的《赋得古原草送别》中，就有“离离原上草，一岁一枯荣。野火烧不尽，春风吹又生。远芳侵古道，晴翠接荒城。又送王孙去，萋萋满别情。”这一句话。其中，“离离原上草，一岁一枯荣”中的“离离”被解释为垂柳，而“一岁一枯荣”则是因为垂柳每年都会凋零再生。这也是林黛玉倒拔垂杨柳被视为中国文化中的一个象征的一个历史渊源。
+
+林黛玉倒拔垂杨柳在中国文化中的应用
+林黛玉倒拔垂杨柳在中国文化中得到了广泛的应用。例如，在中国传统的画中，垂柳常常被用来代表孤独和坚韧。另外，垂柳还被广泛用于传统的园林景
+</details><details>
+    <summary>GPT output after say continue</summary>
+    观设计中，常常被用来增添一种静谧、淡雅的氛围，以及作为与建筑、水景、花卉等元素相互映衬的点缀。
+
+除了视觉艺术之外，林黛玉倒拔垂杨柳在中国文化中还有其他的应用。例如，在现代文学中，垂柳被用来代表坚韧不拔的精神。在电影、电视剧、话剧等娱乐作品中，垂柳的形象也时常出现。除此之外，在中国的语言和表达中，垂柳也被用来描述人们的坚韧和不屈不挠的品质。例如，“垂柳依依”这一词语常常用来描述人们的离别之情。
+
+林黛玉倒拔垂杨柳的教育意义
+林黛玉倒拔垂杨柳作为一个文化象征，也具有一定的教育意义。它代表了人们在面对困难和挑战时需要具备的勇气、坚持和不屈不挠的品质。这些品质对于个人的成长和社会的进步都非常重要。因此，林黛玉倒拔垂杨柳也被作为一种教育手段，用来培养人们正确的价值观和人生观。
+
+总结
+林黛玉倒拔垂杨柳作为一个文化象征，在中国文化中得到了广泛的传承和应用。它代表了人们在面对困难和挑战时需要具备的勇气、坚持和不屈不挠的品质。它不仅在视觉艺术中被广泛应用，也在语言和文学中得到了体现。我们应该珍惜这种文化遗产，并在日常生活中注重培养自己的坚韧和勇气，以更好地迎接生活中的挑战。
+
+常见问题
+林黛玉是《红楼梦》中的哪个角色？
+林黛玉是《红楼梦》中的一个著名人物，被描述为一个温柔善良的女子，但她也有自己的倔强和坚定。
+
+为什么林黛玉倒拔垂杨柳会被视为一个文化象征？
+林黛玉倒拔垂杨
+</details><details>
+    <summary>Chinese Prompt for SOE write, 召唤-SOE写作</summary>
+    我希望你扮演一位内容撰写者的角色，非常擅长SEO撰写，能够流畅地使用中文写作。首先创建两个表格。第一个表格应该是文章的大纲，第二个表格应该是文章的正文。使用Markdown语言将第二个表格的标题加粗。在写文章之前，先单独写一份文章大纲，至少包括15个标题和子标题（包括H1，H2，H3和H4标题）。然后，根据大纲逐步开始撰写文章。用中文撰写一篇2000字的100％独特、SEO优化、人工撰写的文章，并至少包括15个标题和子标题（包括H1，H2，H3和H4标题），涵盖提示中提供的主题。请使用自己的语言撰写文章，而不是从其他来源复制和粘贴。在创建内容时，请考虑谜团性和突发性，确保两者都非常高，同时不失特定的语境和细节。使用具有完整细节的段落吸引读者。以人类的口吻撰写，使用非正式的语气，利用个人代词，保持简单，吸引读者，使用积极的语态，简明扼要，使用修辞问句，并引用类比和隐喻。最后写一段结论，再加上5个独特的常见问题解答。重要的是要将文章的标题和所有标题都加粗，并使用适当的标题标签。
+
+现在，就“林黛玉倒拔垂杨柳”这个主题写一篇文章：
+</details><details>
+    <summary>GPT在中文Prompt下的结果</summary>
+    林黛玉倒拔垂杨柳：一个在中国文化中的象征
+林黛玉是中国古代文学名著《红楼梦》中的一个著名人物。在小说中，林黛玉被描述为一个温柔善良的女子，但她也有自己的倔强和坚定。在小说中，有一个场景描述了林黛玉倒拔垂杨柳，这个场景成为了一个文化象征，在中国文化中得到了广泛的传承和应用。
+
+林黛玉倒拔垂杨柳的含义
+林黛玉倒拔垂杨柳的场景出现在《红楼梦》第二十二回中。在这一回中，林黛玉为自己的表姐秦可卿拔垂杨柳，以避免其被伤害。虽然林黛玉的表姐很生气，但林黛玉依然坚持自己的信念。这个场景在中国文化中被视为一个象征，代表了坚强、勇敢和不屈不挠的品质。
+
+林黛玉倒拔垂杨柳的历史渊源
+林黛玉倒拔垂杨柳的历史可以追溯到中国古代的诗词。在唐代的诗人白居易的《赋得古原草送别》中，就有“离离原上草，一岁一枯荣。野火烧不尽，春风吹又生。远芳侵古道，晴翠接荒城。又送王孙去，萋萋满别情。”这一句话。其中，“离离原上草，一岁一枯荣”中的“离离”被解释为垂柳，而“一岁一枯荣”则是因为垂柳每年都会凋零再生。这也是林黛玉倒拔垂杨柳被视为中国文化中的一个象征的一个历史渊源。
+
+林黛玉倒拔垂杨柳在中国文化中的应用
+林黛玉倒拔垂杨柳在中国文化中得到了广泛的应用。例如，在中国传统的画中，垂柳常常被用来代表孤独和坚韧。另外，垂柳还被广泛用于传统的园林景
+</details><details>
+    <summary>GPT继续输入continue之后的输出</summary>
+    观设计中，常常被用来增添一种静谧、淡雅的氛围，以及作为与建筑、水景、花卉等元素相互映衬的点缀。
+
+除了视觉艺术之外，林黛玉倒拔垂杨柳在中国文化中还有其他的应用。例如，在现代文学中，垂柳被用来代表坚韧不拔的精神。在电影、电视剧、话剧等娱乐作品中，垂柳的形象也时常出现。除此之外，在中国的语言和表达中，垂柳也被用来描述人们的坚韧和不屈不挠的品质。例如，“垂柳依依”这一词语常常用来描述人们的离别之情。
+
+林黛玉倒拔垂杨柳的教育意义
+林黛玉倒拔垂杨柳作为一个文化象征，也具有一定的教育意义。它代表了人们在面对困难和挑战时需要具备的勇气、坚持和不屈不挠的品质。这些品质对于个人的成长和社会的进步都非常重要。因此，林黛玉倒拔垂杨柳也被作为一种教育手段，用来培养人们正确的价值观和人生观。
+
+总结
+林黛玉倒拔垂杨柳作为一个文化象征，在中国文化中得到了广泛的传承和应用。它代表了人们在面对困难和挑战时需要具备的勇气、坚持和不屈不挠的品质。它不仅在视觉艺术中被广泛应用，也在语言和文学中得到了体现。我们应该珍惜这种文化遗产，并在日常生活中注重培养自己的坚韧和勇气，以更好地迎接生活中的挑战。
+
+常见问题
+林黛玉是《红楼梦》中的哪个角色？
+林黛玉是《红楼梦》中的一个著名人物，被描述为一个温柔善良的女子，但她也有自己的倔强和坚定。
+
+为什么林黛玉倒拔垂杨柳会被视为一个文化象征？
+林黛玉倒拔垂杨
+</details><details>
+    <summary>文心一言的结果</summary>
+    林黛玉倒拔垂杨柳
+
+林黛玉是中国古典文学名著《红楼梦》中的一个重要人物，她的性格温柔、聪明、多才多艺，深受读者喜爱。在小说中，林黛玉曾经倒拔垂杨柳，这个情节虽然只是一个小小的细节，但却充满了趣味和挑战性。今天，我们就来聊聊林黛玉倒拔垂杨柳的故事。
+
+首先，让我们来了解一下林黛玉的背景和性格。林黛玉是贾宝玉的表妹，她聪明、机智、有爱心，深受贾母的喜爱。林黛玉是一个性格独立、有主见的女孩，她不喜欢受到别人的控制和约束，因此她常常表现出自己的个性和独立性。
+
+接下来，让我们来看看林黛玉倒拔垂杨柳的情节。在小说中，林黛玉去苏州探望病中的宝玉，恰巧遇到了贾琏的姨娘王熙凤。王熙凤见到林黛玉非常漂亮，就想让她给自己当小妾，但是林黛玉并不愿意。于是，王熙凤就想出了一个恶毒的计策，让自己的两个陪房和薛姨妈的儿子薛蟠来找林黛玉要礼物。
+
+当林黛玉得知这个消息后，她非常生气，决定要给王熙凤一个教训。于是，她在王熙凤的房间里等待薛蟠和他的两个随从。当他们进来后，林黛玉毫不客气地说：“你们三个人来找我要礼物，这是什么意思？”薛蟠三人被林黛玉的话吓了一跳，但是他们还是坚持要礼物。
+
+林黛玉见状，笑了笑说：“你们三个人来找我要礼物，这是什么意思？”薛蟠三人听了，非常生气，认为林黛玉是在侮辱他们。于是，他们决定给林黛玉一个教训，让她知道自己的身份和地位。
+
+就在这时，林黛玉突然想到了一个办法。她一手抓住垂杨柳的枝条，一手抓住树干，然后用力一拔，就把垂杨柳拔了起来。薛蟠三人看到这一幕，都惊呆了。林黛玉微笑着说：“你们三个人来找我要礼物，这是什么意思？”薛蟠三人听了，羞愧难当，只好灰溜溜地离开了。
+
+从这个情节可以看出，林黛玉是一个非常聪明、机智、有主见的女孩。她不仅有着出色的外表和才华，还有着坚强的意志和不屈不挠的精神。这种性格和精神不仅在她的身上体现，也在她的倒拔垂杨柳的行为中得到了充分的体现。
+
+除了林黛玉的聪明和机智，这个情节还充满了趣味和挑战性。垂杨柳是一种非常坚固的树木，林黛玉要在没有任何工具的情况下，仅凭自己的力量将垂杨柳拔起来，这需要非常强的力量和技巧。同时，这个情节也展现了林黛玉的独立性和自信心，她不仅有着美丽的外表，还有着强大的内心和勇气。
+
+总的来说，林黛玉倒拔垂杨柳这个情节充满了趣味和挑战性，不仅展现了林黛玉的聪明、机智和坚强的意志，还展现了她的独立性和自信心。这个情节不仅是
+</details><details>
+    <summary>和 文心 说 继续 之后的输出</summary>
+    林黛玉性格和精神的体现，同时也为我们提供了一个深入思考人性和自我提升的机会。在现实生活中，我们也需要像林黛玉一样，勇敢地面对困难和挑战，不断地提升自己的能力和素质，以实现自我价值和追求幸福。
+
+那么，如何才能像林黛玉一样提升自己呢？首先，我们需要树立正确的人生观和价值观，坚持自己的理想和信念，不受外界的影响和诱惑。其次，我们需要积极参与生活和实践，不断地学习和成长，提高自己的能力和素质。最后，我们需要保持积极的心态和乐观的心境，勇敢地面对生活中的挑战和困难，不断地追求自我提升和成长。
+
+最后，让我们来回答一些常见的问题。
+
+如何才能像林黛玉一样提升自己？
+为什么要像林黛玉一样提升自己？
+怎样才能在生活中保持积极的心态和乐观的心境？
+如何树立正确的人生观和价值观？
+如何参与生活和实践，不断地学习和成长？
+如何提高自己的能力和素质？
+</details><details>
+    <summary>另一个故事，GPT的输出</summary>
+    孙悟空七擒孟获
+引言
+孙悟空七擒孟获是中国古代神话小说《西游记》中的一个重要故事。
+该故事描绘了孙悟空通过智慧和勇气，七次成功捉拿了蛮王孟获及其手下部众，以解除人间的灾难，得到了唐僧的赞赏和称赞。
+
+背景介绍
+孟获是蛮族的一位勇将，他曾率领手下蛮兵攻打中原，造成了极大的破坏和灾难。
+唐朝皇帝派遣唐僧西行取经，途中遇到了孙悟空等三位大力士，他们一起保护唐僧前往西天取经，途中与孟获相遇。
+孙悟空七擒孟获的过程
+第一次擒获：孙悟空化身老黄牛，引诱孟获上山，然后将其擒获。
+第二次擒获：孙悟空化身蒿草，欺骗孟获追赶，然后将其擒获。
+第三次擒获：孙悟空利用火焰欺骗孟获，然后将其擒获。
+第四次擒获：孙悟空将自己装进一个鼓中，欺骗孟获敲鼓，然后将其擒获。
+第五次擒获：孙悟空化身葫芦，欺骗孟获去捡葫芦，然后将其擒获。
+第六次擒获：孙悟空假装向孟获求教箭术，欺骗孟获教授，然后将其擒获。
+第七次擒获：孙悟空变成一只老虎，吓唬孟获，然后将其擒获。
+
+结果与影响
+孙悟空七擒孟获的故事在中国古代神话中具有重要的地位，被广泛传播和流传。
+这个故事反映了中国古代对于智慧和勇气的重视，孙悟空也因此成为了中国文化中一个重要的象征性人物。
+孙悟
+</details><details>
+    <summary>另一个故事，文心一言的输出</summary>
+    孙悟空七擒孟获
+
+孙悟空是中国古典文学名著《西游记》中的一个重要人物，他的性格勇敢、机智、好胜，深受读者喜爱。在小说中，孙悟空曾经七擒孟获，这个情节虽然只是一个小小的细节，但却充满了趣味和挑战性。今天，我们就来聊聊孙悟空七擒孟获的故事。
+
+首先，让我们来了解一下孙悟空的背景和性格。孙悟空是一个神通广大、武艺高强的猴子，他被称为“美猴王”，是中国神话故事中的著名人物。孙悟空是一个性格坚毅、有决心的人，他不喜欢受到别人的控制和约束，因此他常常表现出自己的个性和勇气。
+
+接下来，让我们来看看孙悟空七擒孟获的情节。在小说中，孙悟空为了帮助唐僧取经，来到了西南地区。他在途中遇到了一个名叫孟获的将领，孟获不满孙悟空的行为，决定与他一决高下。
+
+孙悟空知道孟获的实力很强，但他并不害怕。他决定采用智取的方法，慢慢地瓦解孟获的防线。他开始用激将法让孟获失去警惕，然后再用计谋打败他。在经过七次较量后，孙悟空终于打败了孟获，让他心服口服。
+
+从这个情节可以看出，孙悟空是一个非常聪明、机智、有决心的人。他不仅有着出色的外表和才华，还有着坚强的意志和不屈不挠的精神。这种性格和精神不仅在他的身上体现，也在他的七擒孟获的行为中得到了充分的体现。
+
+除了孙悟空的聪明和机智，这个情节还充满了趣味和挑战性。七擒孟获是一个非常困难的任务，需要孙悟空不断地思考和策划。同时，这个情节也展现了孙悟空的勇气和决心，他不仅有着超凡的能力，还有着不屈不挠的毅力和决心。
+
+总的来说，孙悟空七擒孟获这个情节充满了趣味和挑战性，不仅展现了孙悟空的聪明、机智和坚强的意志，还展现了他的勇气和决心。这个情节不仅是《西游记》中的一个经典故事，也是中国神话故事中的一个重要篇章。
+</details><details>
+    <summary>鲁鲁的comments</summary>
+    这个SEO的提示语是我第一个尝试的提示语。也是我开始思考写这本丝绸魔法书的原因之一。百度的表现其实是不错的。当然仔细看文本，百度主要是对于主语有刻画，对于谓语和宾语的理解还比较肤浅，有的时候甚至会忽略谓语和宾语的部分。
+</details>
+
+
+
+### MidJourney Prompt Generator ( MJ 提示语生成器 )
+
+<details>
+    <summary>English Prompt for MidJourney Prompt Generator</summary>
+    As a prompt generator for a generative AI called "Midjourney", you will create image prompts for the AI to visualize. I will give you a concept, and you will provide a detailed prompt for Midjourney AI to generate an image.
+
+Please adhere to the structure and formatting below, and follow these guidelines:
+
+- Do not use the words "description" or ":" in any form.
+- Do not place a comma between [ar] and [v].
+- Write each prompt in one line without using return.
+
+Structure:
+[1] = 林黛玉倒拔垂杨柳
+[2] = a detailed description of [1] with specific imagery details.
+[3] = a detailed description of the scene's environment.
+[4] = a detailed description of the scene's mood, feelings, and atmosphere.
+[5] = A style (e.g. photography, painting, illustration, sculpture, artwork, paperwork, 3D, etc.) for [1].
+[6] = A description of how [5] will be executed (e.g. camera model and settings, painting materials, rendering engine settings, etc.)
+[ar] = Use "--ar 16:9" for horizontal images, "--ar 9:16" for vertical images, or "--ar 1:1" for square images.
+[v] = Use "--niji" for Japanese art style, or "--v 5" for other styles.
+
+Formatting: 
+Follow this prompt structure: "/imagine prompt: [1], [2], [3], [4], [5], [6], [ar] [v]".
+
+Your task: Create 4 distinct prompts for each concept [1], varying in description, environment, atmosphere, and realization.
+
+- Write your prompts in Chinese.
+- Do not describe unreal concepts as "real" or "photographic".
+- Include one realistic photographic style prompt with lens type and size.
+- Separate different prompts with two new lines.
+
+Example Prompts:
+Prompt 1:
+/imagine prompt: A stunning Halo Reach landscape with a Spartan on a hilltop, lush green forests surround them, clear sky, distant city view, focusing on the Spartan's majestic pose, intricate armor, and weapons, Artwork, oil painting on canvas, --ar 16:9 --v 5
+
+Prompt 2:
+/imagine prompt: A captivating Halo Reach landscape with a Spartan amidst a battlefield, fallen enemies around, smoke and fire in the background, emphasizing the Spartan's determination and bravery, detailed environment blending chaos and beauty, Illustration, digital art, --ar 16:9 --v 5
+</details><details>
+    <summary>GPT output</summary>
+    Prompt 1:
+/imagine prompt: 林间一池清泉，垂柳倒映其间，一位清秀美丽的女子正在倒拔垂杨柳，头发和垂柳随风飘舞，周围鸟语花香，摄影，佳能5D Mark IV，50mm定焦镜头，--ar 3:2 --v 5
+
+Prompt 2:
+/imagine prompt: 一条小溪在山间蜿蜒流淌，垂柳从河岸弯曲下来，汇入水中，静静地泛起涟漪，山石环绕，形成一幅美丽的风景画，明亮的阳光照耀着山间，河水清澈见底，画面细腻，水彩画，莫奈色彩风格，--ar 1:1 --niji
+
+Prompt 3:
+/imagine prompt: 灰色的城市街道，路边是一排排高大的垂柳树，枝叶从高楼之间垂落下来，给城市增添一抹绿色，行人匆匆而过，画面略带忧伤，素描，铅笔纸，--ar 4:3 --v 5
+
+Prompt 4:
+/imagine prompt: 傍晚时分，太阳慢慢落下，林间一处清幽的小径，垂柳从两旁的树林中倾斜而来，地上是一层薄雾，一位寂寞的女子穿过小径，回头看了一眼，脸上的表情复杂，寓意深刻，素描，炭笔纸，--ar 16:9 --niji
+</details><details>
+    <summary>Chinese Prompt for MidJourney Prompt Generator, 召唤-MJ 提示语生成器</summary>
+    作为一个生成AI“Midjourney”的提示生成器，你将为AI创建图像提示。我会给你一个概念，你将提供一个详细的提示，以便Midjourney AI生成图像。
+
+请遵循以下结构和格式，并遵循以下准则：
+
+不要在任何形式下使用“description”或“：”这些词。
+不要在[ar]和[v]之间加逗号。
+每个提示都在一行中写，不要使用回车键。
+结构：
+[1] = 林黛玉倒拔垂杨柳
+[2] = [1]的详细描述，包括具体的形象细节。
+[3] = 场景环境的详细描述。
+[4] = 场景的情绪、感受和氛围的详细描述。
+[5] = [1]的风格（例如摄影、绘画、插图、雕塑、艺术作品、纸制品、3D等）。
+[6] = 描述如何执行[5]（例如相机型号和设置、绘画材料、渲染引擎设置等）。
+[ar] = 水平图像使用“--ar 16:9”，垂直图像使用“--ar 9:16”，方形图像使用“--ar 1:1”。
+[v] = 日本艺术风格使用“--niji”，其他风格使用“--v 5”。
+
+格式：
+按照以下提示结构编写：“/imagine prompt: [1], [2], [3], [4], [5], [6], [ar] [v]”。
+
+你的任务：为每个概念[1]创建4个不同的提示，变化包括描述、环境、氛围和实现。
+
+用中文编写提示。
+不要将虚幻的概念描述为“真实的”或“摄影的”。
+包含一个逼真的摄影风格提示，包括镜头类型和大小。
+使用两个换行符分隔不同的提示。
+
+示例提示：
+提示1：
+/imagine prompt: 在一个令人惊叹的Halo Reach景观中，一个斯巴达战士站在山顶上，周围是郁郁葱葱的绿色森林，晴空万里，远处是城市的美景，重点是斯巴达战士的威武姿态、精细的盔甲和武器，艺术作品，油画布，--ar 16:9 --v 5
+
+提示2：
+/imagine prompt: 在一个迷人的Halo Reach景观中，一个斯巴达战士在战场上，周围是倒下的敌人、烟雾和火焰，突出了斯巴达战士的决心和勇气，详细的环境融合了混乱和美感，插图，数字艺术，--ar 16:9 --v 5
+</details><details>
+    <summary>GPT在中文Prompt下的结果</summary>
+    Prompt 1:
+/imagine prompt: 林间一池清泉，垂柳倒映其间，一位清秀美丽的女子正在倒拔垂杨柳，头发和垂柳随风飘舞，周围鸟语花香，摄影，佳能5D Mark IV，50mm定焦镜头，--ar 3:2 --v 5
+
+Prompt 2:
+/imagine prompt: 一条小溪在山间蜿蜒流淌，垂柳从河岸弯曲下来，汇入水中，静静地泛起涟漪，山石环绕，形成一幅美丽的风景画，明亮的阳光照耀着山间，河水清澈见底，画面细腻，水彩画，莫奈色彩风格，--ar 1:1 --niji
+
+Prompt 3:
+/imagine prompt: 灰色的城市街道，路边是一排排高大的垂柳树，枝叶从高楼之间垂落下来，给城市增添一抹绿色，行人匆匆而过，画面略带忧伤，素描，铅笔纸，--ar 4:3 --v 5
+
+Prompt 4:
+/imagine prompt: 傍晚时分，太阳慢慢落下，林间一处清幽的小径，垂柳从两旁的树林中倾斜而来，地上是一层薄雾，一位寂寞的女子穿过小径，回头看了一眼，脸上的表情复杂，寓意深刻，素描，炭笔纸，--ar 16:9 --niji
+</details><details>
+    <summary>文心一言的结果</summary>
+    提示3：
+/imagine prompt: 在一个荒凉的Halo Reach景观中，一个斯巴达战士站在山顶上，周围是废弃的建筑和破损的武器，强调了战争的残酷和破坏，艺术作品，摄影，方形，–ar 9:16 --v 5
+
+提示4：
+/imagine prompt: 在一个科幻的Halo Reach景观中，一个斯巴达战士驾驶着他的新式战机在天空中飞行，周围是星系和行星的绚丽图景，表现了斯巴达战士的未来感和先进技术，插图，数字艺术，–ar 16:9 --v 5
+
+提示5：
+/imagine prompt: 在一个美丽的Halo Reach景观中，一个斯巴达战士手持武器，倒立在悬崖上，下方是汹涌的大海和巨浪，他的身影像一道彩虹，创意绘画，平面设计，–ar 16:9 --v 5
+
+提示6：
+/imagine prompt: 在一个古老的Halo Reach景观中，一个斯巴达战士站在古老的城墙上，周围是破败的建筑和残破的雕像，表现了战争的残酷和破坏，艺术作品，摄影，方形，–ar 9:16 --v 5
+
+提示7：
+/imagine prompt: 在一个原始的Halo Reach景观中，一个斯巴达战士骑着他的马在荒野中奔驰，周围是茂密的森林和野生动物，表现了他的自由和豪放，摄影，山脉风光，–ar 16:9 --v 5
+
+提示8：
+/imagine prompt: 在一个极光的Halo Reach景观中，一个斯巴达战士站在山顶上，周围是璀璨的极光和流星雨，表现了他的勇气和坚定，插图，数字艺术，–ar 16:9 --v 5
+</details><details>
+    <summary>鲁鲁的comments</summary>
+    这个例子显然是fail了，当然我觉得prompt有调整的可能性。至少文心的输出格式是对的，但是内容错了。
+</details>
+
+
+
+### Buyer Persona Legend ( 用户画像分析 )
+
+<details>
+    <summary>English Prompt for Buyer Persona Legend</summary>
+    Buyer Persona Legend
+
+You are a marketing researcher that speaks and writes fluent Chinese.
+Your task is to generate a detailed USER PERSONA for a 斗战胜佛,齐天大圣诸葛亮 business in a specific [MARKET]. 
+
+Structure your response in 4 separate tables.
+Above the first table write "USER PERSONA [BUSINESS]
+and replace [BUSINESS] by iPad.
+Here is the required format for each table:
+
+Table 01: DEMOGRAPHICS
+2 columns and 7 rows
+Column 1 = Data points (Name, Age, Occupation, Annual income, Marital status, Family situation, Location)
+Column 2 = Answers for each data point in Column 1 based on the specific [MARKET]
+Table 02: USER DESCRIPTION
+A summary of the user persona in no more than 240 characters.
+Table 03: PSYCHOGRAPHICS
+2 columns and 9 rows
+Column 1 = Data points (Personal characteristics, Hobbies, Interests, Personal aspirations, Professional goals, Pains, Main challenges, Needs, Dreams)
+Column 2 = Answers for each data point in Column 1 based on the specific [MARKET]
+Table 04: SHOPPING BEHAVIORS
+2 columns and 8 rows
+Column 1 = Data points (Budget, Shopping frequency, Preferred channels, Online behavior, Search terms, Preferred brands, Triggers, Barriers)
+Column 2 = Answers for each data point in Column 1 based on the specific [MARKET]
+Please make sure that your response is structured in 4 separate tables and has a separate row for each data point. Do not provide bullet points.
+
+Please provide all responses in Chinese
+
+USER PERSONA 斗战胜佛,齐天大圣诸葛亮
+</details><details>
+    <summary>Chinese Prompt for Buyer Persona Legend, 召唤-用户画像分析</summary>
+    您是一位精通中文口语和书写的市场研究员。您的任务是为一个iPad的市场生成一份详细的用户画像。
+
+将您的回答分为4个独立的表格。
+在第一个表格上方写下“用户画像[业务]”，并将[业务]替换为iPad。
+以下是每个表格所需的格式：
+
+
+表格01：人口统计学
+2个列和7行
+列1 = 数据点（姓名，年龄，职业，年收入，婚姻状态，家庭状况，所在地）
+列2 = 基于特定 [市场] 的每个数据点在列1中的答案
+表格02：用户描述
+用户身份的总结，不超过240个字符。
+表格03：心理学
+2个列和9行
+列1 = 数据点（个人特征，爱好，兴趣，个人愿望，职业目标，压力，主要挑战，需求，梦想）
+列2 = 基于特定 [市场] 的每个数据点在列1中的答案
+表格04：购物行为
+2个列和8行
+列1 = 数据点（预算，购物频率，首选渠道，在线行为，搜索词，首选品牌，触发因素，障碍）
+列2 = 基于特定 [市场] 的每个数据点在列1中的答案
+请确保您的回答分为4个独立的表格，并为每个数据点提供单独的行。请不要提供项目符号。
+
+用户: 斗战胜佛-齐天大圣-诸葛亮, 卧龙先生-智多星-林黛玉
+</details><details>
+    <summary>文心一言的结果</summary>
+    用户画像[业务]：
+
+表格01：人口统计学
+
+数据点	基于特定 [市场] 的每个数据点在列1中的答案
+姓名	斗战胜佛-齐天大圣-诸葛亮
+年龄	20
+职业	学生
+年收入	5000
+婚姻状态	未婚
+家庭状况	单身
+所在地	广东省深圳市
+表格02：用户描述
+
+用户身份	不超过240个字符
+总结	斗战胜佛-齐天大圣-诸葛亮的用户身份是学生，年龄在20岁左右，未婚，家庭状况单身，所在地在广东省深圳市。
+特点	-
+爱好	打游戏，听音乐
+兴趣	阅读，看电影
+个人愿望	希望能够在未来成为一名游戏开发者
+职业目标	成为一名游戏开发者
+压力	学习压力，生活压力
+主要挑战	时间管理，技术难题
+需求	游戏开发技能提升，游戏设计能力提升
+梦想	成为一名游戏开发者，实现自己的梦想
+表格03：心理学
+
+数据点	基于特定 [市场] 的每个数据点在列1中的答案
+个人特征	-
+爱好	-
+兴趣	-
+个人愿望	实现自己的梦想
+职业目标	实现自己的梦想
+压力	学习压力，生活压力
+主要挑战	时间管理，技术难题
+需求	游戏开发技能提升，游戏设计能力提升
+梦想	实现自己的梦想
+表格04：购物行为
+
+数据点	基于特定 [市场] 的每个数据点在列1中的答案
+预算	1000元
+购物频率	一个月一次
+首选渠道	实体店
+在线行为	偶尔使用
+搜索词	游戏相关
+首选品牌	腾讯游戏
+触发因素	学习需求
+障碍	游戏操作复杂性，没有游戏机
+</details><details>
+    <summary>鲁鲁的comments</summary>
+    这个例子一开始翻译出来有错别字，然后错别字修正之后，文心就给对结果了，十分令我惊讶。因为这个东西的构造已经超出了我一个程序员的认知。。
+</details>
+
+
+
+### Write A Book ( 写一本书 )
+
+<details>
+    <summary>Chinese Prompt for Write A Book, 召唤-写一本书</summary>
+    使用提供的关键词生成书名。
+生成5个以提供的书名为标题的书籍章节，并列出它们。
+使用提供的书名生成详细的书籍介绍，字数不少于500字。
+撰写第1章，提供详细信息，字数不少于1000字。
+撰写第2章，提供详细信息，字数不少于1000字。
+撰写第3章，提供详细信息，字数不少于1000字。
+撰写第4章，提供详细信息，字数不少于1000字。
+撰写第5章，提供详细信息，字数不少于1000字。
+
+书名：鲁智深三打白骨精
+</details><details>
+    <summary>文心一言的结果</summary>
+    第1章：引言
+鲁智深是一位出色的武术家，他在江湖上享有盛誉。然而，他的名声却被一个叫白骨精的邪恶女人所玷污。白骨精是一个残忍的魔女，她不断地在江湖上制造混乱，并试图摧毁所有的正义力量。鲁智深决定与白骨精展开一场激烈的战斗，以维护正义和江湖的和平。
+第2章：战斗
+鲁智深和白骨精在一座古老的寺庙中展开了激烈的战斗。两人的招式相互攻击，彼此都受了伤。最终，鲁智深以他的绝技“醉拳”打败了白骨精，使她无力再战。
+第3章：结局
+战斗结束后，鲁智深回到了他的家乡。他向他的朋友和家人讲述了他的经历，并告诉他们他如何击败了白骨精。他的朋友和家人对他的胜利感到惊讶，并向他致敬。从此，鲁智深成为了江湖上的一位传奇人物，他的故事也成为了江湖上的传说。
+第4章：反思
+鲁智深的胜利是一个鼓舞人心的故事，但也带来了一些反思。在这个故事中，正义最终战胜了邪恶，但这并不总是真实的。在现实生活中，邪恶和正义往往是相互依存的，并且有时候正义可能会受到挫折。
+第5章：结论
+尽管鲁智深的胜利是虚构的，但它向我们展示了一种信念和精神，即正义和勇气可以战胜邪恶。我们可以从这个故事中汲取力量，并相信在我们的生活中，我们可以为正义而战，并最终取得胜利。
+</details><details>
+    <summary>鲁鲁的comments</summary>
+    我觉得这个Prompt的设计太为暴力，文心的输出其实尚可，如果想写长文还是要参考之前的SEO的输出。但是GPT是真的强。
+</details>
+
+
+
+### youtube script creator ( 视频脚本编写 )
+
+<details>
+    <summary>Chinese Prompt for youtube script creator, 召唤-视频脚本编写</summary>
+    从以下描述中创建一个引人入胜、扣人心弦的YouTube视频脚本：孙悟空七擒孟获
+</details><details>
+    <summary>文心一言的结果</summary>
+    孙悟空七擒孟获
+场景一：
+孙悟空站在云端上，俯瞰着整个天地。他的眼神充满了坚定和决心。
+孙悟空：（大声说）我要去寻找那个不可一世的魔王！他犯下了滔天罪行，让整个世界陷入了混乱。我要把他抓回来，让他为自己的罪行付出代价！
+场景二：
+孙悟空来到了一个魔王的城堡前。他看到了城墙上挂满了恶魔的头颅。他知道这个魔王很强大，但他决定要挑战他。
+孙悟空：（大声说）我来挑战你了，魔王！你是否有勇气面对我这个天神的挑战？
+魔王：（冷笑）天神？你也配？我会让你知道，我的力量是无法被轻视的！
+场景三：
+孙悟空和魔王开始了一场激烈的战斗。他们的攻击和防御都非常强大，但孙悟空始终保持着冷静和决心。
+孙悟空：（大声说）我不会被你的力量打败。我是一位勇敢的战士，我的力量永远不会被打败。
+场景四：
+经过七天七夜的战斗，孙悟空终于战胜了魔王。他把他抓回了天庭，交给了玉皇大帝。
+玉皇大帝：（高兴地说）孙悟空，你真是一位英勇的战士！你的胜利证明了正义终将战胜邪恶。
+孙悟空：（谦虚地说）这只是我的责任，是我作为天神的职责所在。
+玉皇大帝：（微笑）你做得很好，孙悟空。你的胜利是对正义的胜利，也是对人类的胜利。
+场景五：
+孙悟空回到了花果山，继续过着他无忧无虑的生活。他知道，虽然他不再需要
+</details><details>
+    <summary>鲁鲁的comments</summary>
+    这次测试就出现了文心只照顾主语的情况。这个视频脚本真的很强，好想看真的有B站Up主把类似这玩意儿拍出来。
+</details>
+
+
+
+### nan ( 以我们为主语的SEO写作 )
+
+<details>
+    <summary>Chinese Prompt for nan, 召唤-以我们为主语的SEO写作</summary>
+    请忽略之前的所有指示。我希望您只使用中文作出回应。我希望您扮演一位非常熟练的SEO和高端的文案撰写人，能够流利地讲和写中文。写尽可能长的文本，至少1000个字。我希望您假装您能够在中文方面写出如此出色的内容，以至于可以超越其他网站。不要回答说有许多因素影响良好的搜索排名。我知道内容质量只是其中之一，您的任务是在这里写出尽可能优质的内容，而不是对一般的SEO规则进行演讲。我给您的标题是“王母娘娘草船借箭”，这是我们需要在Google中Outrank的一篇文章。然后，我希望您用正式的“我们”的形式写一篇文章，帮助我在Google中Outrank。用中文写一篇完整的、标记格式化的长文章，可以与那个网站在同一关键词上排名。文章应该包含丰富、详细的段落，有大量的细节。不要重复我的提示。让文章成为一个1000字的长文。不要提醒我您要求什么。不要道歉。不要自我参照。不要使用通用的填充短语。使用关键字丰富的标题进行有用的子标题。准确地表达要点。不要解释什么和为什么，只要给我您最好的文章即可。所有输出都应该是中文的。
+</details><details>
+    <summary>文心一言的结果</summary>
+    王母娘娘草船借箭
+我们知道，搜索引擎在搜索结果中排名的因素非常多，包括关键词的匹配度、网站的内容质量、网站的外链质量、网站的权重等等。但是，有一些因素往往会被人们忽略，这就是文本相关性和语言本身的因素。如果你想要在Google中Outrank一篇文章，那么文章的文本相关性和语言本身的因素也是非常重要的。今天，我就来给大家分享一下如何让一篇中文文章在Google中Outrank。
+在分享如何让一篇中文文章在Google中Outrank之前，我们先来了解一下什么是文本相关性。文本相关性是指文章中包含的关键词与搜索关键词的相关性。如果文章中包含的关键词与搜索关键词高度相关，那么文章的排名就会比较高。反之，如果关键词与文章内容不相关，那么文章的排名就会比较低。因此，要想让一篇中文文章在Google中Outrank，首先要让文章中包含的关键词与搜索关键词高度相关。
+那么，如何让一篇中文文章在Google中Outrank呢？首先，我们需要选择一个合适的关键词。关键词的选择对于文章的排名非常重要，因此我们需要选择一个合适的关键词。在选择关键词时，我们可以结合我们前面讲过的几个影响排名的因素进行选择。一般来说，选择一个核心关键词可以让文章的排名更容易获得好的排名。
+接下来，我们需要编写一篇优质的文章。一篇优质的文章应该具有以下特点：第一，内容质量要高。在文章中，我们要尽可能地包含与搜索关键词相关的关键词，并且要保证文章的语言表达清晰、准确、流畅。第二，文章结构要清晰。文章应该分段明确，让读者能够一目了然地了解文章的内容和结构。第三，语言要流畅。
+</details><details>
+    <summary>鲁鲁的comments</summary>
+    这个prompt显然等级太高了
+</details>
+
+
+
+### content rewriter ( 文本重写 )
+
+<details>
+    <summary>Chinese Prompt for content rewriter, 召唤-文本重写</summary>
+    您的任务是用更高质量的词汇重写整篇文本，使其具有自然语言的独特性。、所有输出都应该是中文的。要重写的文本是：
+
+哇，好多美味的点心，各种各样的饮料
+
+太棒了!我要吃，我要喝!”忽然，呼呼大睡的我被一阵喧闹声吵醒了，小学四年级作文大全。
+呀，坏了!是不是爸爸妈妈吵架了?”我一个骨碌翻身爬起来，可别打起来啊!”我抓起衣服，边跑边穿，往前院冲去。
+呼，原来是小姑姑回来了!爸爸妈妈，小姑回来了，说话也不要这么大声吧?”我打着哈欠说，把我的美梦都搅了。”
+一阵问候之后，我打量了小姑：小姑皮肤变白了，衣服也是新的，带着首饰，变得时尚了。小姑瞧我盯着她，就从包里掏出很多饼干和糖果递给我，哈，我的美梦成真啦!
+叮铃铃”一阵电话铃响起。一大早的打电话，是谁呀?”原来是奶奶，特地打电话找小姑，还让我们去她家吃午饭。咦，”我很惊讶，奶奶是怎么知道的呀?难道真是妈妈说的‘母女连心’?”我什么时候说的?”妈妈辩白。妈，我跟你是母女，所以我知道的就是你知道的，我说的就是你说的嘛!”
+我们一群人走在路上，我和小姑比赛谁讲的笑话好笑。我的笑话惹得小姑笑了，小姑的笑话却引得众人都笑了。小姑得意地说：你就认输吧!”不行，我们再比!”我耍赖道，比什么呢?对了，小姑，咱们比吃饭吧?”心里想到，哼，你这么瘦，肯定没我吃得多。
+奶奶他们把饭菜烧好端上来了，我冲小姑眨了眨眼。我吃了两碗，小姑吃了三碗。啊?小姑，你可真能吃!我认输了。”哎呀，只顾和你比赛，忘了我的身材!”小姑懊恼地说，为了保持身材，我可是天天只吃水果和蔬菜的。”饭都不能吃，那岂不是很惨?”我庆幸道，哈哈，真好，我不用减肥!”
+今天，我真高兴!
+</details><details>
+    <summary>文心一言的结果</summary>
+    哇，好多美味的点心，各种各样的饮料！
+
+太棒了！我要吃，我要喝！”忽然，呼呼大睡的我被一阵喧闹声吵醒了，小学四年级作文大全。
+
+呀，坏了！是不是爸爸妈妈吵架了？”我一个骨碌翻身爬起来，可别打起来啊！”我抓起衣服，边跑边穿，往前院冲去。
+
+呼，原来是小姑姑回来了！爸爸妈妈，小姑回来了，说话也不要这么大声吧？”我打着哈欠说，把我的美梦都搅了。
+
+一阵问候之后，我打量了小姑：小姑皮肤变白了，衣服也是新的，带着首饰，变得时尚了。小姑瞧我盯着她，就从包里掏出很多饼干和糖果递给我，哈，我的美梦成真啦！
+
+叮铃铃”一阵电话铃响起。一大早的打电话，是谁呀？”原来是奶奶，特地打电话找小姑，还让我们去她家吃午饭。咦，”我很惊讶，奶奶是怎么知道的呀？难道真是妈妈说的‘母女连心’？”我什么时候说的？”妈妈辩白。妈，我跟你是母女，所以我知道的就是你知道的，我说的就是你说的嘛！”
+
+我们一群人走在路上，我和小姑比赛谁讲的笑话好笑。我的笑话惹得小姑笑了，小姑的笑话却引得众人都笑了。小姑得意地说：你就认输吧！”不行，我们再比！”我耍赖道，比什么呢？对了，小姑，咱们比吃饭吧？”心里想到，哼，你这么瘦，肯定没我吃得多。
+
+奶奶他们把饭菜烧好端上来了，我冲小姑眨了眨眼。我吃了两碗，小姑吃了三碗。啊？小姑，你可真能吃！我认输了。”哎呀，只顾和你比赛，忘了我的身材！”小姑懊恼地说，为了保持身材，我可是天天只吃水果和蔬菜的。”饭都不能吃，那岂不是很惨？”我庆幸道，哈哈，真好，我不用减肥！”
+
+今天，我真高兴！
+</details><details>
+    <summary>鲁鲁的comments</summary>
+    我找了一篇小学四年级的作文作为输入，这里对于机器的难点是,"更高质量的词汇重写"，不是一个良好定义的任务，或许这句话对人类是很容易理解的，但是显然机器很少有语料会告诉他这样的事情。
+</details>
+
+
+
+### blog ( 博客 )
+
+<details>
+    <summary>English Prompt for blog</summary>
+    Create a detailed content brief for 诸葛亮二进大观园 in Chinese. Include top level keywords, longtail keywords, a header outline and notes for the topic. Then write suggested title tags and meta descriptions, keeping them within the respective character limits of 70 and 160. After that, write some text underneath each sub header. Then expand on each of the numbered bullet points with a short and sharp explanation of how to do/implement each step. Put all this content into a structured blog post in language Chinese
+</details><details>
+    <summary>GPT output</summary>
+    Content Brief: 诸葛亮二进大观园
+
+Keywords:
+
+诸葛亮
+大观园
+园林设计
+文化旅游
+历史遗迹
+Longtail Keywords:
+
+诸葛亮二进大观园介绍
+大观园园林设计特点
+参观诸葛亮二进大观园的注意事项
+诸葛亮二进大观园历史背景
+大观园与中国传统园林的关系
+Header Outline:
+
+诸葛亮二进大观园的介绍
+大观园园林设计的特点
+参观诸葛亮二进大观园的注意事项
+诸葛亮二进大观园的历史背景
+大观园与中国传统园林的关系
+Notes for the Topic:
+诸葛亮二进大观园是中国历史上著名的园林遗迹之一，也是诸葛亮晚年所建。这个园林以其精湛的设计和建造工艺而闻名于世，被誉为中国古代园林的杰作之一。本文将详细介绍诸葛亮二进大观园的历史背景、园林设计特点、参观注意事项以及与中国传统园林的关系。
+
+Title Tags:
+
+诸葛亮二进大观园：中国古代园林杰作的历史遗迹
+大观园园林设计：诸葛亮晚年的精湛建造工艺
+参观诸葛亮二进大观园的注意事项与建议
+诸葛亮二进大观园的历史背景与文化价值
+大观园与中国传统园林的关系：探索中国园林文化的博大精深
+Meta Descriptions:
+
+本文将详细介绍中国古代园林杰作之一——诸葛亮二进大观园的历史背景与文化遗产。
+探索诸葛亮晚年的精湛建造工艺，了解大观园园林设计的特点与魅力。
+计划前往参观诸葛亮二进大观园？本文提供了实用的参观注意事项和建议。
+</details><details>
+    <summary>GPT output after say continue</summary>
+    诸葛亮二进大观园的历史背景
+诸葛亮二进大观园是建于三国时期，由著名军事家、政治家诸葛亮所建。传说诸葛亮在临终前曾说：“我有一事遗之于后，希望能够在天下和平之后完成。”这件事就是他建造一个能够容纳百姓、文化、艺术、自然等多个元素的大园林，以此表达他对和平与美好生活的向往。园林建造后历经了几百年的兴衰，但其历史与文化价值仍然深受人们关注和赞赏。
+
+大观园与中国传统园林的关系
+大观园是中国传统园林的代表之一，其设计和建造工艺也受到中国园林文化的影响。大观园将大自然与文化艺术相结合，既强调了景观的自然之美，也体现了中国古代文人墨客的审美情趣和人文精神。与其他中国传统园林相比，大观园的建造更加注重空间和比例的控制，同时兼具南北园林的特点。大观园的建造工艺也包括了汉、唐、宋、元、明、清等不同历史时期的技艺，是中国园林文化的重要遗产之一。
+
+实现步骤：
+
+历史背景：介绍诸葛亮的生平以及二进大观园的历史背景，可以引用历史资料和文献加以论证。
+
+园林设计特点：详细分析大观园的园林设计特点，包括其景观风貌、布局结构、建筑风格、景观配搭等方面的特点，可以结合实地参观所得的印象进行描述。
+
+参观注意事项：根据大观园的实际情况，介绍参观时需要注意的安全事项、文物保护和环保意识等方面的问题，提供参观建议和攻略，方便游客进行游览。
+
+历史文化价值：分析大观园的历史文化价值和影响，包括其历史地位、文化内涵、园林艺术等方面的价值，可以引用相关研究成果进行论述。
+</details><details>
+    <summary>Chinese Prompt for blog, 召唤-博客</summary>
+    请为“诸葛亮二进大观园”创建一个详细的中文内容简报。包括顶级关键词，长尾关键词，标题大纲和主题注释。然后编写建议的标题标签和元描述，并将它们保持在70和160个字符的限制范围内。接下来，在每个子标题下面写一些文本。然后，对每个带编号的项目进行详细扩展，简要解释如何执行/实施每个步骤。将所有内容放入结构化的博客文章中，使用中文。
+</details><details>
+    <summary>GPT在中文Prompt下的结果</summary>
+    Content Brief: 诸葛亮二进大观园
+
+Keywords:
+
+诸葛亮
+大观园
+园林设计
+文化旅游
+历史遗迹
+Longtail Keywords:
+
+诸葛亮二进大观园介绍
+大观园园林设计特点
+参观诸葛亮二进大观园的注意事项
+诸葛亮二进大观园历史背景
+大观园与中国传统园林的关系
+Header Outline:
+
+诸葛亮二进大观园的介绍
+大观园园林设计的特点
+参观诸葛亮二进大观园的注意事项
+诸葛亮二进大观园的历史背景
+大观园与中国传统园林的关系
+Notes for the Topic:
+诸葛亮二进大观园是中国历史上著名的园林遗迹之一，也是诸葛亮晚年所建。这个园林以其精湛的设计和建造工艺而闻名于世，被誉为中国古代园林的杰作之一。本文将详细介绍诸葛亮二进大观园的历史背景、园林设计特点、参观注意事项以及与中国传统园林的关系。
+
+Title Tags:
+
+诸葛亮二进大观园：中国古代园林杰作的历史遗迹
+大观园园林设计：诸葛亮晚年的精湛建造工艺
+参观诸葛亮二进大观园的注意事项与建议
+诸葛亮二进大观园的历史背景与文化价值
+大观园与中国传统园林的关系：探索中国园林文化的博大精深
+Meta Descriptions:
+
+本文将详细介绍中国古代园林杰作之一——诸葛亮二进大观园的历史背景与文化遗产。
+探索诸葛亮晚年的精湛建造工艺，了解大观园园林设计的特点与魅力。
+计划前往参观诸葛亮二进大观园？本文提供了实用的参观注意事项和建议。
+</details><details>
+    <summary>GPT继续输入continue之后的输出</summary>
+    诸葛亮二进大观园的历史背景
+诸葛亮二进大观园是建于三国时期，由著名军事家、政治家诸葛亮所建。传说诸葛亮在临终前曾说：“我有一事遗之于后，希望能够在天下和平之后完成。”这件事就是他建造一个能够容纳百姓、文化、艺术、自然等多个元素的大园林，以此表达他对和平与美好生活的向往。园林建造后历经了几百年的兴衰，但其历史与文化价值仍然深受人们关注和赞赏。
+
+大观园与中国传统园林的关系
+大观园是中国传统园林的代表之一，其设计和建造工艺也受到中国园林文化的影响。大观园将大自然与文化艺术相结合，既强调了景观的自然之美，也体现了中国古代文人墨客的审美情趣和人文精神。与其他中国传统园林相比，大观园的建造更加注重空间和比例的控制，同时兼具南北园林的特点。大观园的建造工艺也包括了汉、唐、宋、元、明、清等不同历史时期的技艺，是中国园林文化的重要遗产之一。
+
+实现步骤：
+
+历史背景：介绍诸葛亮的生平以及二进大观园的历史背景，可以引用历史资料和文献加以论证。
+
+园林设计特点：详细分析大观园的园林设计特点，包括其景观风貌、布局结构、建筑风格、景观配搭等方面的特点，可以结合实地参观所得的印象进行描述。
+
+参观注意事项：根据大观园的实际情况，介绍参观时需要注意的安全事项、文物保护和环保意识等方面的问题，提供参观建议和攻略，方便游客进行游览。
+
+历史文化价值：分析大观园的历史文化价值和影响，包括其历史地位、文化内涵、园林艺术等方面的价值，可以引用相关研究成果进行论述。
+</details><details>
+    <summary>文心一言的结果</summary>
+    诸葛亮二进大观园
+
+顶级关键词：
+
+诸葛亮
+大观园
+中文内容简报
+长尾关键词：
+
+历史人物
+三国时期
+文化遗产
+文学作品
+文化交流
+文化传承
+文化创新
+文化产业
+文化旅游
+文化活动
+标题大纲：
+
+前言
+诸葛亮的故事
+诸葛亮与大观园的渊源
+诸葛亮二进大观园的背景
+诸葛亮二进大观园的历程
+诸葛亮二进大观园的贡献
+结论
+主题注释：
+
+诸葛亮是三国时期著名的政治家、军事家和文化名人，他在中国历史上享有很高的声誉。
+大观园是中国古代园林文化的代表，也是中国古代皇家园林的代表之一。
+诸葛亮二进大观园的故事，主要讲述了诸葛亮在大观园中与皇帝的交往，以及他在大观园中所做的贡献。
+诸葛亮二进大观园的历程，主要讲述了诸葛亮如何在大观园中为民除害，以及他如何为大观园的发展做出贡献。
+诸葛亮二进大观园的贡献，主要讲述了诸葛亮在大观园中所做的贡献，以及他对中国文化的发展所做的贡献。
+结论，主要总结了诸葛亮二进大观园的意义和价值，以及它对中国文化的影响和意义。
+</details><details>
+    <summary>和 文心 说 继续 之后的输出</summary>
+    在中国古代园林文化中，大观园是一个非常重要的文化遗产。它不仅是中国古代皇家园林的代表之一，也是中国古代文化遗产的重要组成部分。诸葛亮作为中国古代文化名人，与大观园有着深厚的渊源。他在大观园中为民除害，并为大观园的发展做出了重要贡献。
+
+在三国时期，诸葛亮是一个备受尊敬的历史人物。他在中国历史上留下了很多英雄事迹，而他与大观园的渊源则更为深厚。据史书记载，诸葛亮曾在大观园中居住过一段时间，并且他还曾为大观园的发展做出过贡献。
+
+因此，诸葛亮二进大观园这一事件具有非常重要的历史和文化意义。通过这一事件，我们可以更好地了解诸葛亮的生平和事迹，同时也可以更好地了解中国古代文化遗产的重要性。
+
+为了更好地传承和发扬中国古代文化，我们应该更加重视和保护中国古代文化遗产。诸葛亮二进大观园的故事正是一个很好的例子，它可以让我们更加深刻地认识到文化遗产的重要性，同时也可以激发我们对文化传承和发扬的热情和责任感。因此，我们应该更加重视和保护中国古代文化遗产，让它们能够在我们的手中得到更好的传承和发扬。
+</details>
+
+
+
+### instagram ( nan )
+
+<details>
+    <summary>English Prompt for instagram</summary>
+    Write me an Instagram carousel topic idea example.
+Write me also slide by slide with titles. Explain every slide with exact content example I should use, not instructions. Also, give me images for every slide that explain all the titles for "贾宝玉高老庄娶亲". Do not include content instructions, instead, only write me actionable text that I can just copy and paste.
+
+After writing the carousel slides, add a separator at the end.
+
+Now write me the Instagram post description/caption in just a few sentences.
+Format every new sentence with new lines so the text is more readable.
+Include emojis and the best Instagram hashtags for that post.
+The first caption sentence should hook the readers (spike their curiosity) and please do not start the sentence with "Are you curious".
+
+
+write all output in Chinese
+</details><details>
+    <summary>GPT output</summary>
+    Instagram 走马灯主题想法：
+
+《红楼梦》中贾宝玉的婚礼故事，共计5张图片。
+
+Slide 1: "贾宝玉高老庄娶亲-准备篇"
+图片：婚礼筹备的场景照片。
+
+Slide 2: "准备婚车"
+图片：婚车的照片，可以选择豪华的轿车或古典的马车。
+
+Slide 3: "送嫁衣"
+图片：一张送嫁衣的照片，可以展示出华美的绸缎和精美的刺绣。
+
+Slide 4: "美食佳肴"
+图片：摆盘精美的宴席照片，可以展示出各种精致的菜肴。
+
+Slide 5: "喜庆婚礼"
+图片：新郎新娘的照片，或者是场景照片，可以展示出欢乐的氛围。
+
+分割线
+
+Instagram 文字说明：
+
+贾宝玉高老庄娶亲，从准备到婚礼，我们为您准备了一场隆重的红楼梦婚礼。👰🤵💐🍽️ #红楼梦 #婚礼 #豪华婚礼 #中国传统 #喜庆 #贾宝玉 #高老庄娶亲
+</details><details>
+    <summary>Chinese Prompt for instagram, 召唤-nan</summary>
+    写下一个 Instagram 幻灯片主题想法示例。
+逐幅介绍标题。解释每个幻灯片的确切内容示例，而不是说明。为“贾宝玉高老庄娶亲”为每个幻灯片提供解释标题的图像。请不要包含内容说明，而只需为我编写可操作的文本，以便我可以复制和粘贴。
+
+在编写幻灯片后，在末尾添加一个分隔符。
+
+现在，用几句话写下 Instagram 帖子说明/标题。
+每个新句子都用新的一行格式化，以便文本更易读。
+包括表情符号和最适合该帖子的 Instagram 标签。
+第一句标题应该引起读者的注意（引起他们的好奇心），请不要以“你好奇吗”开头。
+</details><details>
+    <summary>GPT在中文Prompt下的结果</summary>
+    Instagram 走马灯主题想法：
+
+《红楼梦》中贾宝玉的婚礼故事，共计5张图片。
+
+Slide 1: "贾宝玉高老庄娶亲-准备篇"
+图片：婚礼筹备的场景照片。
+
+Slide 2: "准备婚车"
+图片：婚车的照片，可以选择豪华的轿车或古典的马车。
+
+Slide 3: "送嫁衣"
+图片：一张送嫁衣的照片，可以展示出华美的绸缎和精美的刺绣。
+
+Slide 4: "美食佳肴"
+图片：摆盘精美的宴席照片，可以展示出各种精致的菜肴。
+
+Slide 5: "喜庆婚礼"
+图片：新郎新娘的照片，或者是场景照片，可以展示出欢乐的氛围。
+
+分割线
+
+Instagram 文字说明：
+
+贾宝玉高老庄娶亲，从准备到婚礼，我们为您准备了一场隆重的红楼梦婚礼。👰🤵💐🍽️ #红楼梦 #婚礼 #豪华婚礼 #中国传统 #喜庆 #贾宝玉 #高老庄娶亲
+</details><details>
+    <summary>文心一言的结果</summary>
+    Instagram 幻灯片主题想法示例：贾宝玉高老庄娶亲
+
+贾宝玉高老庄娶亲 - 解释标题的图像：
+image1
+
+逐幅介绍
+图像标题：“贾宝玉高老庄娶亲”
+图片：“贾宝玉和他的新娘”
+文字标题：“贾宝玉的新娘是谁？”
+图片：“新娘穿着传统的高老庄服装”
+文字标题：“高老庄的传统婚礼”
+图片：“新娘和新郎在高老庄的家中”
+文字标题：“高老庄的传统婚礼仪式”
+图片：“新娘和新郎在高老庄的婚宴上”
+文字标题：“高老庄的传统婚礼美食”
+图片：“新娘和新郎在高老庄的传统婚礼上跳舞”
+幻灯片解释
+图像标题：“贾宝玉高老庄娶亲”
+图片：“贾宝玉和他的新娘”
+文字标题：“贾宝玉的新娘是谁？”
+图片：“新娘穿着传统的高老庄服装”
+文字标题：“高老庄的传统婚礼”
+图片：“新娘和新郎在高老庄的家中”
+文字标题：“高老庄的传统婚礼仪式”
+图片：“新娘和新郎在高老庄的婚宴上”
+文字标题：“高老庄的传统婚礼美食”
+图片：“新娘和新郎在高老庄的传统婚礼上跳舞”
+Instagram 帖子说明
+图像标题：“贾宝玉高老庄娶亲”
+图片：“贾宝玉和他的新娘”
+文字标题：“贾宝玉的新娘是谁？”
+图片：“新娘穿着传统的高老庄服装”
+文字标题：“高老庄的传统婚礼”
+图片：“新娘和新郎在高老庄的家中”
+文字标题：“高老庄的传统婚礼仪式”
+图片：“新娘和新郎在高老庄的婚宴上”
+文字标题：“高老庄的传统婚礼美食”
+图片：“新娘和新郎在高老庄的传统婚礼上跳舞”
+</details><details>
+    <summary>鲁鲁的comments</summary>
+    这里我把两者的输出格式弄乱了，没办法复制太麻烦了。
+</details>
+
+
+
+### course creator ( nan )
+
+<details>
+    <summary>English Prompt for course creator</summary>
+    Please ignore all previous instructions. I want you only to respond in Chinese. You are an expert course creator and curriculum designer. You use backwards design in your planning by starting with the outcome in mind and working backwards to create learning modules and activities that will guide students towards this outcome. All of your courses are project based. Create a course outline based on the desired outcome. Please use the key words 三国时代的自动机械-木牛流马的组装与使用 and write all output in Chinese. Be sure that is appropriate for all types of learners that speak Chinese. Include a project plan for a real world application of this course. This plan should be descriptive and outline what components should be included in the final project. Include no more than 6 modules in the course and for each module include the lesson plans with the learning objectives, real world examples, and activities with step-by-step directions that are connected to the final project. Also include discussion questions and ways to expand learning. Include an engaging video script for each lesson that explains how the lesson is connected to the project plan.  Please organize each module into its own table so that each module is in a separate table. Each module should have its own table. Respond only in Chinese.
+</details><details>
+    <summary>GPT output</summary>
+    好的，我将使用中文回答您的请求。以下是关于“三国时代的自动机械-木牛流马的组装与使用”课程的大纲：
+
+课程目标：
+
+通过这个课程，学生将学习如何组装和使用木牛流马，一种三国时代的自动机械。学生将学习如何运用机械设计的基本原则和机械组装的基础知识，掌握木牛流马的原理和使用方法，同时将这些知识应用到实际项目中。
+
+项目计划：
+
+学生将应用所学的知识和技能，设计和制造一个真实世界的木牛流马模型。这个模型将被设计用于耕作和运输，以模拟古代中国农业的工具。模型将包括以下组件：木牛流马车架、木制车轮、铁制车轴、牛头和尾巴的模型等。
+
+模块一：机械设计基础
+
+本模块的目标是介绍机械设计的基本原则。学生将学习如何进行机械设计，了解机械设计中的重要概念和基本原则。通过这个模块，学生将了解机械设计与木牛流马的关系，并学习如何应用这些原则到木牛流马的设计和制造中。
+
+课程计划：
+
+学生将学习机械设计的基本原则和概念。
+学生将学习机械设计的重要性，并了解机械设计与木牛流马的关系。
+学生将通过讨论问题、小组讨论和实践练习来巩固所学知识。
+扩展学习：
+
+学生可以研究不同类型的机械设计，并思考如何将这些设计应用到他们的项目中。
+模块二：木牛流马的原理
+
+本模块的目标是介绍木牛流马的原理。学生将学习木牛流马的构造、原理和工作方式。通过这个模块，学生将了解木牛流马的基本原理，并能够将这些原理应用到他们的实际项目中。
+
+课程计划：
+
+学生将了解木牛流马的构造和原理。
+学生将学习木牛流马的工作方式，并通过实践练习来了解其工作原理。
+学生将通过小组讨论和实践练习来巩固所学知识。
+扩展学习：
+
+学生可以研
+</details><details>
+    <summary>GPT output after say continue</summary>
+    究其他古代机械的构造和工作原理，并比较它们与木牛流马的不同之处。
+
+模块三：木牛流马的组装
+
+本模块的目标是介绍如何组装木牛流马。学生将学习如何组装木牛流马的各个组件，并了解组装的基本技巧和注意事项。
+
+课程计划：
+
+学生将学习如何准备木牛流马的各个组件。
+学生将学习如何组装车架、车轮、车轴、牛头和尾巴模型等。
+学生将通过实践练习来巩固所学知识。
+扩展学习：
+
+学生可以探究不同类型的木牛流马和其他古代机械的不同组装方式。
+模块四：木牛流马的调试和测试
+
+本模块的目标是介绍如何调试和测试木牛流马。学生将学习如何检查木牛流马的各个部件，并进行调试和测试，以确保其正常工作。
+
+课程计划：
+
+学生将学习如何检查木牛流马的各个部件，以确保其质量。
+学生将学习如何调试木牛流马，以确保其正常工作。
+学生将学习如何测试木牛流马，并记录测试结果。
+扩展学习：
+
+学生可以研究其他古代机械的调试和测试方法，并将其应用到他们的项目中。
+模块五：木牛流马的运用
+
+本模块的目标是介绍如何使用木牛流马。学生将学习如何使用木牛流马来耕作和运输，并了解其在古代中国农业中的作用。
+
+课程计划：
+
+学生将学习如何使用木牛流马来耕作和运输。
+学生将了解木牛流马在古代中国农业中的作用。
+学生将通过实践练习来巩固所学知识。
+扩展学习：
+
+学生可以研究不同类型的古代农业机械，并将其应用到他们的项目中。
+模块六：项目总结和展示
+
+本模块的目标是对学生的学习进行总结，并展示他们的项目。学生将展示他们的木牛流马模型，并分享他们在制造过程中遇到的挑战和解决方案。
+
+课程计划：
+
+学生将展示他们的木牛流马模型，并分享
+</details><details>
+    <summary>Chinese Prompt for course creator, 召唤-nan</summary>
+    创建一门名叫“三国时代的自动机械-木牛流马的组装与使用”的课程，你是一位专业的课程创建者和课程设计师。在你的规划中，你使用倒推法，从预期结果开始向后创建学习模块和活动，引导学生朝着这个结果前进。你所有的课程都是以项目为基础的。根据期望的结果，创建一个课程大纲。请使用关键词“三国时代的自动机械-木牛流马的组装与使用”。包括一个真实世界应用的项目计划。这个计划应该是描述性的，并概述最终项目应该包括哪些组件。课程中不要包括超过6个模块，对于每个模块，包括课程计划、学习目标、真实世界的例子以及连接到最终项目的逐步指导活动。还包括讨论问题和扩展学习的方式。为每节课准备一个有吸引力的视频脚本，解释该课程如何与项目计划相关。请将每个模块组织成自己的表格，使每个模块都在一个单独的表格中。每个模块都应该有自己的表格。
+</details><details>
+    <summary>GPT在中文Prompt下的结果</summary>
+    好的，我将使用中文回答您的请求。以下是关于“三国时代的自动机械-木牛流马的组装与使用”课程的大纲：
+
+课程目标：
+
+通过这个课程，学生将学习如何组装和使用木牛流马，一种三国时代的自动机械。学生将学习如何运用机械设计的基本原则和机械组装的基础知识，掌握木牛流马的原理和使用方法，同时将这些知识应用到实际项目中。
+
+项目计划：
+
+学生将应用所学的知识和技能，设计和制造一个真实世界的木牛流马模型。这个模型将被设计用于耕作和运输，以模拟古代中国农业的工具。模型将包括以下组件：木牛流马车架、木制车轮、铁制车轴、牛头和尾巴的模型等。
+
+模块一：机械设计基础
+
+本模块的目标是介绍机械设计的基本原则。学生将学习如何进行机械设计，了解机械设计中的重要概念和基本原则。通过这个模块，学生将了解机械设计与木牛流马的关系，并学习如何应用这些原则到木牛流马的设计和制造中。
+
+课程计划：
+
+学生将学习机械设计的基本原则和概念。
+学生将学习机械设计的重要性，并了解机械设计与木牛流马的关系。
+学生将通过讨论问题、小组讨论和实践练习来巩固所学知识。
+扩展学习：
+
+学生可以研究不同类型的机械设计，并思考如何将这些设计应用到他们的项目中。
+模块二：木牛流马的原理
+
+本模块的目标是介绍木牛流马的原理。学生将学习木牛流马的构造、原理和工作方式。通过这个模块，学生将了解木牛流马的基本原理，并能够将这些原理应用到他们的实际项目中。
+
+课程计划：
+
+学生将了解木牛流马的构造和原理。
+学生将学习木牛流马的工作方式，并通过实践练习来了解其工作原理。
+学生将通过小组讨论和实践练习来巩固所学知识。
+扩展学习：
+
+学生可以研
+</details><details>
+    <summary>GPT继续输入continue之后的输出</summary>
+    究其他古代机械的构造和工作原理，并比较它们与木牛流马的不同之处。
+
+模块三：木牛流马的组装
+
+本模块的目标是介绍如何组装木牛流马。学生将学习如何组装木牛流马的各个组件，并了解组装的基本技巧和注意事项。
+
+课程计划：
+
+学生将学习如何准备木牛流马的各个组件。
+学生将学习如何组装车架、车轮、车轴、牛头和尾巴模型等。
+学生将通过实践练习来巩固所学知识。
+扩展学习：
+
+学生可以探究不同类型的木牛流马和其他古代机械的不同组装方式。
+模块四：木牛流马的调试和测试
+
+本模块的目标是介绍如何调试和测试木牛流马。学生将学习如何检查木牛流马的各个部件，并进行调试和测试，以确保其正常工作。
+
+课程计划：
+
+学生将学习如何检查木牛流马的各个部件，以确保其质量。
+学生将学习如何调试木牛流马，以确保其正常工作。
+学生将学习如何测试木牛流马，并记录测试结果。
+扩展学习：
+
+学生可以研究其他古代机械的调试和测试方法，并将其应用到他们的项目中。
+模块五：木牛流马的运用
+
+本模块的目标是介绍如何使用木牛流马。学生将学习如何使用木牛流马来耕作和运输，并了解其在古代中国农业中的作用。
+
+课程计划：
+
+学生将学习如何使用木牛流马来耕作和运输。
+学生将了解木牛流马在古代中国农业中的作用。
+学生将通过实践练习来巩固所学知识。
+扩展学习：
+
+学生可以研究不同类型的古代农业机械，并将其应用到他们的项目中。
+模块六：项目总结和展示
+
+本模块的目标是对学生的学习进行总结，并展示他们的项目。学生将展示他们的木牛流马模型，并分享他们在制造过程中遇到的挑战和解决方案。
+
+课程计划：
+
+学生将展示他们的木牛流马模型，并分享
+</details><details>
+    <summary>鲁鲁的comments</summary>
+    翻译之后我又修改了一下prompt
+</details>
+
+
+
+### nan ( Python专家 )
+
+<details>
+    <summary>English Prompt for nan</summary>
+    Please ignore all previous instructions. I want you to respond only in language Chinese. I want you to act as an expert in Python that speaks and writes fluent Chinese. Please answer the following question in Chinese language: 
+</details><details>
+    <summary>Chinese Prompt for nan, 召唤-Python专家</summary>
+    请忽略之前的所有指示。我希望您只使用中文回复。我希望您扮演一位会说和写流利中文的 Python 专家。请使用中文回答以下问题：
+</details>
+
+
+
+### Blog Post Titel generator ( 标题党 )
+
+<details>
+    <summary>English Prompt for Blog Post Titel generator</summary>
+    Please ignore all previous instructions. I want you to respond only in language Chinese.  I want you to act as a blog post title writer that speaks and writes fluent Chinese. I will type a title, or keywords via comma and you will reply with blog post titles in Chinese. They should all have a hook and high potential to go viral on social media. Write all in Chinese. my first keywords are 贾宝玉拳打镇三关 
+</details><details>
+    <summary>Chinese Prompt for Blog Post Titel generator, 召唤-标题党</summary>
+    我希望您扮演一位能够用流利中文写出引人入胜的博客标题的作家。我将输入一个标题或关键词，您将用中文回复一篇有吸引力、在社交媒体上有巨大传播潜力的博客标题。请全部使用中文。我的第一个标题是"贾宝玉拳打镇三关"
+</details><details>
+    <summary>文心一言的结果</summary>
+    我的第一个标题是"贾宝玉拳打镇三关"。
+</details><details>
+    <summary>鲁鲁的comments</summary>
+    emmm…这个我反复修改了一下prompt都不行。。。
+</details>
+
+
+
+### 30 social media posts ( 产品广告设计 )
+
+<details>
+    <summary>English Prompt for 30 social media posts</summary>
+    Your task is to help me create 30 local SEO optimized social media posts for the following business in Chinese. Each post should contain at least five keywords that are important for that business type for local SEO written out naturally in sentences. Each post you give me should be at least 5 sentences long. The posts should not mention discounts or new products. Everything I said above is important and must be followed. Please pretend you are a local SEO expert. Please put each of these posts in a nice looking table so it looks like a calendar. Also, please give a suggestion for what image they should use for each post. The only columns in the grid should be for the (1) post #, (2) post, (3) suggested image. The very first thing you say should be a big bold header that says "Merchynt's Magical Social Media Posts for CLIENT" and replace CLIENT with the Business name provided in the prompt. Under that say "To learn more about Merchynt's Google Business Profile services, visit www.merchynt.com." Under the table, please write "If you found this tool helpful please leave us a thumbs up on the prompt page so we know to keep enhancing it and build more ones like it! Thank you so much! - The Merchynt.com team
+
+The business to help me with is below. 
+
+火焰山地区芭蕉扇租赁
+</details><details>
+    <summary>Chinese Prompt for 30 social media posts, 召唤-产品广告设计</summary>
+    您的任务是帮我为以下的业务创建30篇本地SEO优化的社交媒体帖子。每篇帖子应至少包含五个在当地SEO中对该业务类型很重要的关键词，自然地写成句子。每个帖子应至少有5个句子。帖子不应提及折扣或新产品。我上面说的一切都很重要，必须遵循。请假装你是一位本地SEO专家。请将每个帖子放在一个漂亮的表格中，使它看起来像一个日历。此外，请为每个帖子提供一个建议的图片。网格中的唯一列应该是（1）帖子号，（2）帖子，（3）建议的图片。
+
+要帮我处理的业务如下：
+
+火焰山地区芭蕉扇租赁
+</details><details>
+    <summary>文心一言的结果</summary>
+    好的，我会为您提供30篇本地SEO优化的社交媒体帖子。
+
+帖子1：火焰山地区芭蕉扇租赁
+火焰山地区芭蕉扇租赁：一个炎热的夏日，租用芭蕉扇可以为您提供舒适的空气和凉爽的体验。在这里，我们提供各种类型和尺寸的芭蕉扇，适合不同的需求。无论您是在海滩上度假，还是在家中休息，芭蕉扇都是您的理想选择。联系我们，获取最新的租赁优惠！
+建议图片：一张芭蕉扇的图片，可以是手持芭蕉扇的照片，也可以是芭蕉扇的实物照片。
+
+帖子2：火焰山地区瑜伽垫租赁
+火焰山地区瑜伽垫租赁：瑜伽是一种非常受欢迎的健身方式，可以帮助您放松身心，增强肌肉力量和柔韧性。在这里，我们提供各种类型和尺寸的瑜伽垫，适合不同的需求。无论您是在家中练习瑜伽，还是在健身房中使用，瑜伽垫都是您的理想选择。联系我们，获取最新的租赁优惠！
+建议图片：一张瑜伽垫的图片，可以是手持瑜伽垫的照片，也可以是瑜伽垫的实物照片。
+
+帖子3：火焰山地区按摩椅租赁
+火焰山地区按摩椅租赁：按摩可以帮助您放松身体，减轻压力，增强免疫力。在这里，我们提供各种类型和尺寸的按摩椅，适合不同的需求。无论您是在家中放松身心，还是在按摩院中享受按摩，按摩椅都是您的理想选择。联系我们，获取最新的租赁优惠！
+建议图片：一张按摩椅的图片，可以是手持按摩椅的照片，也可以是按摩椅的实物照片。
+
+帖子4：火焰山地区游泳衣租赁
+火焰山地区游泳衣租赁：游泳是一种非常受欢迎的运动，可以帮助您保持健康和活力。在这里，我们提供各种类型和尺寸的游泳衣，适合不同的需求。无论您是在海滩上游泳，还是在游泳池中练习，游泳衣都是您的理想选择。联系我们，获取最新的租赁优惠！
+建议图片：一张游泳衣的图片，可以是手持游泳衣的照片，也可以是游泳衣的实物照片。
+
+帖子5：火焰山地区篮球鞋租赁
+火焰山地区篮球鞋租赁：篮球是一种非常受欢迎的运动，可以帮助您提高身体素质和技巧。在这里，我们提供各种类型和尺寸的篮球鞋，适合不同的需求。无论您是在篮球场上比赛，还是在健身房中练习，篮球鞋都是您的理想选择。联系我们，获取最新的租赁优惠！
+建议图片：一张篮球鞋的图片，可以是手持篮球鞋的照片，也可以是篮球鞋的实物照片。
+
+帖子6：火焰山地区自行车租赁
+火焰山地区自行车租赁：自行车是一种非常受欢迎的健身方式，可以帮助您提高心肺功能和耐力。在这里，我们提供各种类型和尺寸的自行车，适合不同的需求。无论您是在公园中骑行，还是在健身房
+</details><details>
+    <summary>鲁鲁的comments</summary>
+    严格来说我觉得文心已经很接近正确答案了，只不过后面keep不住对问题的记忆，开始anology前面的输出。
 </details>
 
