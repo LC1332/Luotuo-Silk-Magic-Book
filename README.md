@@ -33,11 +33,11 @@ Please visit our home page repo [https://github.com/LC1332/Luotuo-Chinese-LLM](h
 
 <details>
     <summary>English Prompt for SOE write</summary>
-    I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently Chinese. First Create Two Tables. First Table Should be the Outline of the Article and the Second Should be the Article. Bold the Heading of the Second Table using Markdown language. Write an outline of the article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step. Write a 2000-word 100% Unique, SEO-optimized, Human-Written article in Chinese with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  End with a conclusion paragraph and 5 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags.
-Now Write An Article On This Topic "林黛玉倒拔垂杨柳"
+    ```I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently Chinese. First Create Two Tables. First Table Should be the Outline of the Article and the Second Should be the Article. Bold the Heading of the Second Table using Markdown language. Write an outline of the article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step. Write a 2000-word 100% Unique, SEO-optimized, Human-Written article in Chinese with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  End with a conclusion paragraph and 5 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags.
+Now Write An Article On This Topic "林黛玉倒拔垂杨柳"```
 </details><details>
     <summary>GPT output</summary>
-    林黛玉倒拔垂杨柳：一个在中国文化中的象征
+    ```林黛玉倒拔垂杨柳：一个在中国文化中的象征
 林黛玉是中国古代文学名著《红楼梦》中的一个著名人物。在小说中，林黛玉被描述为一个温柔善良的女子，但她也有自己的倔强和坚定。在小说中，有一个场景描述了林黛玉倒拔垂杨柳，这个场景成为了一个文化象征，在中国文化中得到了广泛的传承和应用。
 
 林黛玉倒拔垂杨柳的含义
@@ -47,7 +47,7 @@ Now Write An Article On This Topic "林黛玉倒拔垂杨柳"
 林黛玉倒拔垂杨柳的历史可以追溯到中国古代的诗词。在唐代的诗人白居易的《赋得古原草送别》中，就有“离离原上草，一岁一枯荣。野火烧不尽，春风吹又生。远芳侵古道，晴翠接荒城。又送王孙去，萋萋满别情。”这一句话。其中，“离离原上草，一岁一枯荣”中的“离离”被解释为垂柳，而“一岁一枯荣”则是因为垂柳每年都会凋零再生。这也是林黛玉倒拔垂杨柳被视为中国文化中的一个象征的一个历史渊源。
 
 林黛玉倒拔垂杨柳在中国文化中的应用
-林黛玉倒拔垂杨柳在中国文化中得到了广泛的应用。例如，在中国传统的画中，垂柳常常被用来代表孤独和坚韧。另外，垂柳还被广泛用于传统的园林景
+林黛玉倒拔垂杨柳在中国文化中得到了广泛的应用。例如，在中国传统的画中，垂柳常常被用来代表孤独和坚韧。另外，垂柳还被广泛用于传统的园林景```
 </details><details>
     <summary>GPT output after say continue</summary>
     观设计中，常常被用来增添一种静谧、淡雅的氛围，以及作为与建筑、水景、花卉等元素相互映衬的点缀。
