@@ -27,52 +27,8 @@ Please visit our home page repo [https://github.com/LC1332/Luotuo-Chinese-LLM](h
 
 
 
-### SOE write ( SOE写作 )
 
-这是一个故事
-
-<details>
-    <summary>English Prompt for SOE write</summary>
-    I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently Chinese. First Create Two Tables. First Table Should be the Outline of the Article and the Second Should be the Article. Bold the Heading of the Second Table using Markdown language. Write an outline of the article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step. Write a 2000-word 100% Unique, SEO-optimized, Human-Written article in Chinese with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  End with a conclusion paragraph and 5 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags.
-Now Write An Article On This Topic "林黛玉倒拔垂杨柳"
-</details><details>
-    <summary>GPT output</summary>
-    林黛玉倒拔垂杨柳：一个在中国文化中的象征
-林黛玉是中国古代文学名著《红楼梦》中的一个著名人物。在小说中，林黛玉被描述为一个温柔善良的女子，但她也有自己的倔强和坚定。在小说中，有一个场景描述了林黛玉倒拔垂杨柳，这个场景成为了一个文化象征，在中国文化中得到了广泛的传承和应用。
-
-林黛玉倒拔垂杨柳的含义
-林黛玉倒拔垂杨柳的场景出现在《红楼梦》第二十二回中。在这一回中，林黛玉为自己的表姐秦可卿拔垂杨柳，以避免其被伤害。虽然林黛玉的表姐很生气，但林黛玉依然坚持自己的信念。这个场景在中国文化中被视为一个象征，代表了坚强、勇敢和不屈不挠的品质。
-
-林黛玉倒拔垂杨柳的历史渊源
-林黛玉倒拔垂杨柳的历史可以追溯到中国古代的诗词。在唐代的诗人白居易的《赋得古原草送别》中，就有“离离原上草，一岁一枯荣。野火烧不尽，春风吹又生。远芳侵古道，晴翠接荒城。又送王孙去，萋萋满别情。”这一句话。其中，“离离原上草，一岁一枯荣”中的“离离”被解释为垂柳，而“一岁一枯荣”则是因为垂柳每年都会凋零再生。这也是林黛玉倒拔垂杨柳被视为中国文化中的一个象征的一个历史渊源。
-
-林黛玉倒拔垂杨柳在中国文化中的应用
-林黛玉倒拔垂杨柳在中国文化中得到了广泛的应用。例如，在中国传统的画中，垂柳常常被用来代表孤独和坚韧。另外，垂柳还被广泛用于传统的园林景
-</details><details>
-    <summary>GPT output after say continue</summary>
-    观设计中，常常被用来增添一种静谧、淡雅的氛围，以及作为与建筑、水景、花卉等元素相互映衬的点缀。
-
-除了视觉艺术之外，林黛玉倒拔垂杨柳在中国文化中还有其他的应用。例如，在现代文学中，垂柳被用来代表坚韧不拔的精神。在电影、电视剧、话剧等娱乐作品中，垂柳的形象也时常出现。除此之外，在中国的语言和表达中，垂柳也被用来描述人们的坚韧和不屈不挠的品质。例如，“垂柳依依”这一词语常常用来描述人们的离别之情。
-
-林黛玉倒拔垂杨柳的教育意义
-林黛玉倒拔垂杨柳作为一个文化象征，也具有一定的教育意义。它代表了人们在面对困难和挑战时需要具备的勇气、坚持和不屈不挠的品质。这些品质对于个人的成长和社会的进步都非常重要。因此，林黛玉倒拔垂杨柳也被作为一种教育手段，用来培养人们正确的价值观和人生观。
-
-总结
-林黛玉倒拔垂杨柳作为一个文化象征，在中国文化中得到了广泛的传承和应用。它代表了人们在面对困难和挑战时需要具备的勇气、坚持和不屈不挠的品质。它不仅在视觉艺术中被广泛应用，也在语言和文学中得到了体现。我们应该珍惜这种文化遗产，并在日常生活中注重培养自己的坚韧和勇气，以更好地迎接生活中的挑战。
-
-常见问题
-林黛玉是《红楼梦》中的哪个角色？
-林黛玉是《红楼梦》中的一个著名人物，被描述为一个温柔善良的女子，但她也有自己的倔强和坚定。
-
-为什么林黛玉倒拔垂杨柳会被视为一个文化象征？
-林黛玉倒拔垂杨
-</details><details>
-    <summary>Chinese Prompt for SOE write, 召唤-SOE写作</summary>
-    我希望你扮演一位内容撰写者的角色，非常擅长SEO撰写，能够流畅地使用中文写作。首先创建两个表格。第一个表格应该是文章的大纲，第二个表格应该是文章的正文。使用Markdown语言将第二个表格的标题加粗。在写文章之前，先单独写一份文章大纲，至少包括15个标题和子标题（包括H1，H2，H3和H4标题）。然后，根据大纲逐步开始撰写文章。用中文撰写一篇2000字的100％独特、SEO优化、人工撰写的文章，并至少包括15个标题和子标题（包括H1，H2，H3和H4标题），涵盖提示中提供的主题。请使用自己的语言撰写文章，而不是从其他来源复制和粘贴。在创建内容时，请考虑谜团性和突发性，确保两者都非常高，同时不失特定的语境和细节。使用具有完整细节的段落吸引读者。以人类的口吻撰写，使用非正式的语气，利用个人代词，保持简单，吸引读者，使用积极的语态，简明扼要，使用修辞问句，并引用类比和隐喻。最后写一段结论，再加上5个独特的常见问题解答。重要的是要将文章的标题和所有标题都加粗，并使用适当的标题标签。
-
-现在，就“林黛玉倒拔垂杨柳”这个主题写一篇文章：
-</details>
-
+---
 ### SOE write ( SOE写作 )
 
 这是一个故事
@@ -230,6 +186,8 @@ Now Write An Article On This Topic "林黛玉倒拔垂杨柳"
 
 
 
+
+---
 ### MidJourney Prompt Generator ( MJ 提示语生成器 )
 
 <details>
@@ -355,6 +313,8 @@ Prompt 4:
 
 
 
+
+---
 ### Buyer Persona Legend ( 用户画像分析 )
 
 <details>
@@ -471,6 +431,8 @@ USER PERSONA 斗战胜佛,齐天大圣诸葛亮
 
 
 
+
+---
 ### Write A Book ( 写一本书 )
 
 <details>
@@ -504,6 +466,8 @@ USER PERSONA 斗战胜佛,齐天大圣诸葛亮
 
 
 
+
+---
 ### youtube script creator ( 视频脚本编写 )
 
 <details>
@@ -536,6 +500,8 @@ USER PERSONA 斗战胜佛,齐天大圣诸葛亮
 
 
 
+
+---
 ### nan ( 以我们为主语的SEO写作 )
 
 <details>
@@ -555,6 +521,8 @@ USER PERSONA 斗战胜佛,齐天大圣诸葛亮
 
 
 
+
+---
 ### content rewriter ( 文本重写 )
 
 <details>
@@ -597,6 +565,8 @@ USER PERSONA 斗战胜佛,齐天大圣诸葛亮
 
 
 
+
+---
 ### blog ( 博客 )
 
 <details>
@@ -770,6 +740,8 @@ Meta Descriptions:
 
 
 
+
+---
 ### instagram ( nan )
 
 <details>
@@ -896,6 +868,8 @@ Instagram 帖子说明
 
 
 
+
+---
 ### course creator ( nan )
 
 <details>
@@ -1077,6 +1051,8 @@ Instagram 帖子说明
 
 
 
+
+---
 ### nan ( Python专家 )
 
 <details>
@@ -1089,6 +1065,8 @@ Instagram 帖子说明
 
 
 
+
+---
 ### Blog Post Titel generator ( 标题党 )
 
 <details>
@@ -1107,6 +1085,8 @@ Instagram 帖子说明
 
 
 
+
+---
 ### 30 social media posts ( 产品广告设计 )
 
 <details>
