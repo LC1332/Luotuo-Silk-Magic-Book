@@ -10,4 +10,10 @@ The Silk Magic Book belongs to the project [Luotuo(骆驼)](https://github.com/L
 
 Please visit our home page repo [https://github.com/LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM) to see more information.
 
++ The magic prompts were manually grabbed from a Chrome Extention called AIPRM
+
++ We translated the prompts into Chinese with ChatGPT, manually fixed typo, and test on both ChatGPT(3.5) and Wenxin（文心一言）
+
++ If you find this helpful, please star our major repo [Luotuo(骆驼)](https://github.com/LC1332/Luotuo-Chinese-LLM), Thanks Very Much
+
 
