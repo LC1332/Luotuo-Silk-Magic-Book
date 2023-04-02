@@ -26,5 +26,3 @@ Please visit our home page repo [https://github.com/LC1332/Luotuo-Chinese-LLM](h
 ## 目录
 
 <a name="TabOfCont"></a>
-
-TODO: add a table of content
