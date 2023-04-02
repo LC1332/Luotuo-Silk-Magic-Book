@@ -29,6 +29,21 @@ Please visit our home page repo [https://github.com/LC1332/Luotuo-Chinese-LLM](h
 
 TODO: add a table of content
 
+| | | |
+|---|---|---|
+|[SOE write](#JumpTag0)|[MidJourney Prompt Generator](#JumpTag1)|[Buyer Persona Legend](#JumpTag2)|
+|[Write A Book](#JumpTag3)|[Youtube script creator](#JumpTag4)|[SEO2](#JumpTag5)|
+|[content rewriter](#JumpTag6)|[blog](#JumpTag7)|[instagram](#JumpTag8)|
+|[course creator](#JumpTag9)|[Python](#JumpTag10)|[Blog Post Titel generator](#JumpTag11)|
+|[30 social media posts](#JumpTag12)|[SEO3](#JumpTag13)|[high-converting facebook ad](#JumpTag14)|
+|[Meta-Title & Description](#JumpTag15)|[Stable Diffusion Prompt3](#JumpTag16)|[TLDR](#JumpTag17)|
+|[EEAT Evaluating](#JumpTag18)|[generic code generator](#JumpTag19)|[Google Business Profile](#JumpTag20)|
+|[Quora Answer](#JumpTag21)|[Product Description](#JumpTag22)|[15 GMB posts](#JumpTag23)|
+|[HashTags](#JumpTag24)|[E-E-A-T Blogs](#JumpTag25)||
+
+
+
+
 
 ---
 <a name="JumpTag0"></a>
