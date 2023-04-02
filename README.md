@@ -639,10 +639,12 @@ iPad是高端用户的首选。他们可能是专业人士、自由职业者或�
 
 
 ---
-### nan ( 以我们为主语的SEO写作 )
+### SEO2 ( 第一人称SEO )
+
+王母娘娘草船借箭
 
 <details>
-    <summary>Chinese Prompt for nan, 召唤咒语！以我们为主语的SEO写作</summary>
+    <summary>Chinese Prompt for SEO2, 召唤咒语！第一人称SEO</summary>
     请忽略之前的所有指示。我希望您只使用中文作出回应。我希望您扮演一位非常熟练的SEO和高端的文案撰写人，能够流利地讲和写中文。写尽可能长的文本，至少1000个字。我希望您假装您能够在中文方面写出如此出色的内容，以至于可以超越其他网站。不要回答说有许多因素影响良好的搜索排名。我知道内容质量只是其中之一，您的任务是在这里写出尽可能优质的内容，而不是对一般的SEO规则进行演讲。我给您的标题是“王母娘娘草船借箭”，这是我们需要在Google中Outrank的一篇文章。然后，我希望您用正式的“我们”的形式写一篇文章，帮助我在Google中Outrank。用中文写一篇完整的、标记格式化的长文章，可以与那个网站在同一关键词上排名。文章应该包含丰富、详细的段落，有大量的细节。不要重复我的提示。让文章成为一个1000字的长文。不要提醒我您要求什么。不要道歉。不要自我参照。不要使用通用的填充短语。使用关键字丰富的标题进行有用的子标题。准确地表达要点。不要解释什么和为什么，只要给我您最好的文章即可。所有输出都应该是中文的。
 </details><details>
     <summary>GPT在中文Prompt下的结果</summary>
@@ -691,10 +693,12 @@ iPad是高端用户的首选。他们可能是专业人士、自由职业者或�
 
 
 ---
-### content rewriter ( 文本重写 )
+### content rewriter ( 小学作文改写 )
+
+文本重写
 
 <details>
-    <summary>Chinese Prompt for content rewriter, 召唤咒语！文本重写</summary>
+    <summary>Chinese Prompt for content rewriter, 召唤咒语！小学作文改写</summary>
     您的任务是用更高质量的词汇重写整篇文本，使其具有自然语言的独特性。、所有输出都应该是中文的。要重写的文本是：
 
 哇，好多美味的点心，各种各样的饮料
@@ -755,6 +759,8 @@ iPad是高端用户的首选。他们可能是专业人士、自由职业者或�
 
 ---
 ### blog ( 博客 )
+
+诸葛亮二进大观园
 
 <details>
     <summary>English Prompt for blog</summary>
@@ -875,7 +881,9 @@ Meta Descriptions:
 
 
 ---
-### instagram ( nan )
+### instagram ( instagram )
+
+贾宝玉高老庄娶亲
 
 <p align="center">
     <img src="image/gaolaozhuang.png">
@@ -920,7 +928,7 @@ Instagram 文字说明：
 
 贾宝玉高老庄娶亲，从准备到婚礼，我们为您准备了一场隆重的红楼梦婚礼。👰🤵💐🍽️ #红楼梦 #婚礼 #豪华婚礼 #中国传统 #喜庆 #贾宝玉 #高老庄娶亲
 </details><details>
-    <summary>Chinese Prompt for instagram, 召唤咒语！nan</summary>
+    <summary>Chinese Prompt for instagram, 召唤咒语！instagram</summary>
     写下一个 Instagram 幻灯片主题想法示例。
 逐幅介绍标题。解释每个幻灯片的确切内容示例，而不是说明。为“贾宝玉高老庄娶亲”为每个幻灯片提供解释标题的图像。请不要包含内容说明，而只需为我编写可操作的文本，以便我可以复制和粘贴。
 
@@ -982,7 +990,9 @@ Instagram 帖子说明
 
 
 ---
-### course creator ( nan )
+### course creator ( 课程生成器 )
+
+三国时代的自动机械-木牛流马的组装与使用
 
 <p align="center">
     <img src="image/Course.png">
@@ -1073,7 +1083,7 @@ Instagram 帖子说明
 
 学生将展示他们的木牛流马模型，并分享
 </details><details>
-    <summary>Chinese Prompt for course creator, 召唤咒语！nan</summary>
+    <summary>Chinese Prompt for course creator, 召唤咒语！课程生成器</summary>
     创建一门名叫“三国时代的自动机械-木牛流马的组装与使用”的课程，你是一位专业的课程创建者和课程设计师。在你的规划中，你使用倒推法，从预期结果开始向后创建学习模块和活动，引导学生朝着这个结果前进。你所有的课程都是以项目为基础的。根据期望的结果，创建一个课程大纲。请使用关键词“三国时代的自动机械-木牛流马的组装与使用”。包括一个真实世界应用的项目计划。这个计划应该是描述性的，并概述最终项目应该包括哪些组件。课程中不要包括超过6个模块，对于每个模块，包括课程计划、学习目标、真实世界的例子以及连接到最终项目的逐步指导活动。还包括讨论问题和扩展学习的方式。为每节课准备一个有吸引力的视频脚本，解释该课程如何与项目计划相关。请将每个模块组织成自己的表格，使每个模块都在一个单独的表格中。每个模块都应该有自己的表格。
 </details><details>
     <summary>鲁鲁的comments</summary>
@@ -1087,13 +1097,15 @@ Instagram 帖子说明
 
 
 ---
-### nan ( Python专家 )
+### Python ( Python专家 )
+
+这个我不试了，有兴趣自己去看generate_readme的源码
 
 <details>
-    <summary>English Prompt for nan</summary>
+    <summary>English Prompt for Python</summary>
     Please ignore all previous instructions. I want you to respond only in language Chinese. I want you to act as an expert in Python that speaks and writes fluent Chinese. Please answer the following question in Chinese language: 
 </details><details>
-    <summary>Chinese Prompt for nan, 召唤咒语！Python专家</summary>
+    <summary>Chinese Prompt for Python, 召唤咒语！Python专家</summary>
     请忽略之前的所有指示。我希望您只使用中文回复。我希望您扮演一位会说和写流利中文的 Python 专家。请使用中文回答以下问题：
 </details>
 
@@ -1104,13 +1116,15 @@ Instagram 帖子说明
 
 
 ---
-### Blog Post Titel generator ( 标题党 )
+### Blog Post Titel generator ( 明天就去UC上班 )
+
+贾宝玉拳打镇三关
 
 <details>
     <summary>English Prompt for Blog Post Titel generator</summary>
     Please ignore all previous instructions. I want you to respond only in language Chinese.  I want you to act as a blog post title writer that speaks and writes fluent Chinese. I will type a title, or keywords via comma and you will reply with blog post titles in Chinese. They should all have a hook and high potential to go viral on social media. Write all in Chinese. my first keywords are 贾宝玉拳打镇三关 
 </details><details>
-    <summary>Chinese Prompt for Blog Post Titel generator, 召唤咒语！标题党</summary>
+    <summary>Chinese Prompt for Blog Post Titel generator, 召唤咒语！明天就去UC上班</summary>
     我希望您扮演一位能够用流利中文写出引人入胜的博客标题的作家。我将输入一个标题或关键词，您将用中文回复一篇有吸引力、在社交媒体上有巨大传播潜力的博客标题。请全部使用中文。我的第一个标题是"贾宝玉拳打镇三关"
 </details><details>
     <summary>GPT在中文Prompt下的结果</summary>
@@ -1132,7 +1146,11 @@ Instagram 帖子说明
 ---
 ### 30 social media posts ( 产品广告设计 )
 
-<details>
+火焰山地区芭蕉扇租赁
+
+<p align="center">
+    <img src="image/advertise.png">
+</p><details>
     <summary>English Prompt for 30 social media posts</summary>
     Your task is to help me create 30 local SEO optimized social media posts for the following business in Chinese. Each post should contain at least five keywords that are important for that business type for local SEO written out naturally in sentences. Each post you give me should be at least 5 sentences long. The posts should not mention discounts or new products. Everything I said above is important and must be followed. Please pretend you are a local SEO expert. Please put each of these posts in a nice looking table so it looks like a calendar. Also, please give a suggestion for what image they should use for each post. The only columns in the grid should be for the (1) post #, (2) post, (3) suggested image. The very first thing you say should be a big bold header that says "Merchynt's Magical Social Media Posts for CLIENT" and replace CLIENT with the Business name provided in the prompt. Under that say "To learn more about Merchynt's Google Business Profile services, visit www.merchynt.com." Under the table, please write "If you found this tool helpful please leave us a thumbs up on the prompt page so we know to keep enhancing it and build more ones like it! Thank you so much! - The Merchynt.com team
 
@@ -1183,7 +1201,7 @@ The business to help me with is below.
 火焰山地区自行车租赁：自行车是一种非常受欢迎的健身方式，可以帮助您提高心肺功能和耐力。在这里，我们提供各种类型和尺寸的自行车，适合不同的需求。无论您是在公园中骑行，还是在健身房
 </details><details>
     <summary>鲁鲁的comments</summary>
-    严格来说我觉得文心已经很接近正确答案了，只不过后面keep不住对问题的记忆，开始anology前面的输出。
+    严格来说我觉得文心已经很接近正确答案了，只不过后面keep不住对问题的记忆，开始anology前面的输出。不过火焰山地区的瑜伽垫和按摩椅我觉得也很有价值。。
 </details>
 
 跳转到[目录](#TabOfCont)
@@ -1209,6 +1227,8 @@ The business to help me with is below.
 + 从某些方面来说，文心是个很不错的模型，我暂时没有在其他模型上观察到这样的现象。我暂时还没有将骆驼项目推进到超多任务prompt的训练中。但是希望有这么一天，我的模型也会响应我的超大规模召唤魔法！
 
 + 从某些方面来说，这些超长prompt已经在逼近GPT和文心的能力边界（当然从别的角度还有别的边界）是个很有意思的现象。
+
++ 我知道林黛玉倒拔垂杨柳最早来自于《量子位》的直播，同样看了这个直播的同学你们就会知道，有魔法和没有魔法的倒拔垂杨柳，是完全不同的。
 
 + 当我前面提到人工爬取的时候，我拜托了我的老婆，在这里对她表示巨大的感谢，特别是她在运维整个项目的时候也给予了很大的支持。另外这里文心的账号使用了老婆的邀请码，老婆也在为她们公司调研使用文心的可能性，我注意到文心页面对我的截图是留有显著的水印的，希望百度的大佬们不要反查图像给我账号封了，不然也未免太小器了。
 
