@@ -1232,6 +1232,8 @@ The business to help me with is below.
 
 + 当我前面提到人工爬取的时候，我拜托了我的老婆，在这里对她表示巨大的感谢，特别是她在运维整个项目的时候也给予了很大的支持。另外这里文心的账号使用了老婆的邀请码，老婆也在为她们公司调研使用文心的可能性，我注意到文心页面对我的截图是留有显著的水印的，希望百度的大佬们不要反查图像给我账号封了，不然也未免太小器了。
 
++ 如果你感到我们的项目有帮助，可以去我们的主页面[https://github.com/LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM)点上Star，不胜感谢！
+
 TODO: add an English translation here.
 
 ## Sponsorship(赞助) for Proj Luotuo
