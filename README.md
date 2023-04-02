@@ -31,6 +31,8 @@ TODO: add a table of content
 
 
 ---
+<a name="JumpTag0"></a>
+
 ### SOE write ( 高质量SOE写作 )
 
 林黛玉倒拔垂杨柳
@@ -180,6 +182,8 @@ Now Write An Article On This Topic "林黛玉倒拔垂杨柳"
 
 
 ---
+<a name="JumpTag1"></a>
+
 ### MidJourney Prompt Generator ( MJ 提示语生成器 )
 
 倒拔垂杨柳的林黛玉在林间漫步。。。
@@ -312,6 +316,8 @@ Prompt 4:
 
 
 ---
+<a name="JumpTag2"></a>
+
 ### Buyer Persona Legend ( 用户画像分析 )
 
 斗战胜佛-诸葛亮， 卧龙先生-林黛玉
@@ -465,6 +471,8 @@ iPad是高端用户的首选。他们可能是专业人士、自由职业者或�
 
 
 ---
+<a name="JumpTag3"></a>
+
 ### Write A Book ( 写一本书 )
 
 鲁智深三打白骨精
@@ -551,6 +559,8 @@ iPad是高端用户的首选。他们可能是专业人士、自由职业者或�
 
 
 ---
+<a name="JumpTag4"></a>
+
 ### Youtube script creator ( 视频脚本编写 )
 
 孙悟空七擒孟获
@@ -639,6 +649,8 @@ iPad是高端用户的首选。他们可能是专业人士、自由职业者或�
 
 
 ---
+<a name="JumpTag5"></a>
+
 ### SEO2 ( 第一人称SEO )
 
 王母娘娘草船借箭
@@ -693,6 +705,8 @@ iPad是高端用户的首选。他们可能是专业人士、自由职业者或�
 
 
 ---
+<a name="JumpTag6"></a>
+
 ### content rewriter ( 小学作文改写 )
 
 文本重写
@@ -758,6 +772,8 @@ iPad是高端用户的首选。他们可能是专业人士、自由职业者或�
 
 
 ---
+<a name="JumpTag7"></a>
+
 ### blog ( 博客 )
 
 诸葛亮二进大观园
@@ -881,6 +897,8 @@ Meta Descriptions:
 
 
 ---
+<a name="JumpTag8"></a>
+
 ### instagram ( instagram )
 
 贾宝玉高老庄娶亲
@@ -990,6 +1008,8 @@ Instagram 帖子说明
 
 
 ---
+<a name="JumpTag9"></a>
+
 ### course creator ( 课程生成器 )
 
 三国时代的自动机械-木牛流马的组装与使用
@@ -1097,6 +1117,8 @@ Instagram 帖子说明
 
 
 ---
+<a name="JumpTag10"></a>
+
 ### Python ( Python专家 )
 
 这个我不试了，有兴趣自己去看generate_readme的源码
@@ -1116,6 +1138,8 @@ Instagram 帖子说明
 
 
 ---
+<a name="JumpTag11"></a>
+
 ### Blog Post Titel generator ( 明天就去UC上班 )
 
 贾宝玉拳打镇三关
@@ -1144,6 +1168,8 @@ Instagram 帖子说明
 
 
 ---
+<a name="JumpTag12"></a>
+
 ### 30 social media posts ( 产品广告设计 )
 
 火焰山地区芭蕉扇租赁
@@ -1211,6 +1237,8 @@ The business to help me with is below.
 
 
 ---
+<a name="JumpTag13"></a>
+
 ### SEO3 ( SEO3 )
 
 这个我不试了，和前面的差不多。
@@ -1230,6 +1258,8 @@ The business to help me with is below.
 
 
 ---
+<a name="JumpTag14"></a>
+
 ### high-converting facebook ad ( 高转化率的Facebook广告 )
 
 智多星吴用的祈福消灾法事上门
@@ -1286,6 +1316,8 @@ The business to help me with is below.
 
 
 ---
+<a name="JumpTag15"></a>
+
 ### Meta-Title & Description ( Meta标题生成 )
 
 如来智辨真假李逵
@@ -1326,6 +1358,8 @@ Description: 如来揭示真相，揭露李逵真假之谜。
 
 
 ---
+<a name="JumpTag16"></a>
+
 ### Stable Diffusion Prompt3 ( Diffusion咒语3 )
 
 不试了，和前面都一样的
@@ -1379,6 +1413,8 @@ I want you to write me one full detailed prompt about the idea written from me, 
 
 
 ---
+<a name="JumpTag17"></a>
+
 ### TLDR ( TLDR文本总结 )
 
 造假币亏钱
@@ -1418,6 +1454,8 @@ I want you to write me one full detailed prompt about the idea written from me, 
 
 
 ---
+<a name="JumpTag18"></a>
+
 ### EEAT Evaluating ( EEAT新闻审查 )
 
 专业的新闻审核
@@ -1489,6 +1527,8 @@ I want you to write me one full detailed prompt about the idea written from me, 
 
 
 ---
+<a name="JumpTag19"></a>
+
 ### generic code generator ( 通用代码生成 )
 
 这个我有点懵，下次玩一下吧
@@ -1549,6 +1589,8 @@ First query/question:
 
 
 ---
+<a name="JumpTag20"></a>
+
 ### Google Business Profile ( 谷歌GBM )
 
 东海龙王的降雨租赁
@@ -1630,6 +1672,8 @@ First query/question:
 
 
 ---
+<a name="JumpTag21"></a>
+
 ### Quora Answer ( 知乎answer )
 
 这是我觉得文心本地化做得很好的一个，值得配一张图来说明
@@ -1687,6 +1731,8 @@ Read the below-mentioned Quora Question. Pretend to be an expert on the subject.
 
 
 ---
+<a name="JumpTag22"></a>
+
 ### Product Description ( SEO产品描述 )
 
 如意金箍棒！
@@ -1729,6 +1775,8 @@ Read the below-mentioned Quora Question. Pretend to be an expert on the subject.
 
 
 ---
+<a name="JumpTag23"></a>
+
 ### 15 GMB posts ( GBM 15 )
 
 这个不试了，不过感觉应该有用
@@ -1745,6 +1793,8 @@ Read the below-mentioned Quora Question. Pretend to be an expert on the subject.
 
 
 ---
+<a name="JumpTag24"></a>
+
 ### HashTags ( 标题和标签 )
 
 这种互联网运营相关的prompt怎么人气那么高。。
@@ -1829,6 +1879,8 @@ YouTube标签：
 
 
 ---
+<a name="JumpTag25"></a>
+
 ### E-E-A-T Blogs ( 每天一篇UC博客 )
 
 骆驼团队开源中文大语言模型
@@ -1974,12 +2026,12 @@ test table
 
 | | | |
 |---|---|---|
-|SOE write|MidJourney Prompt Generator|Buyer Persona Legend|
-|Write A Book|Youtube script creator|SEO2|
-|content rewriter|blog|instagram|
-|course creator|Python|Blog Post Titel generator|
-|30 social media posts|SEO3|high-converting facebook ad|
-|Meta-Title & Description|Stable Diffusion Prompt3|TLDR|
-|EEAT Evaluating|generic code generator|Google Business Profile|
-|Quora Answer|Product Description|15 GMB posts|
-|HashTags|E-E-A-T Blogs||
+|[SOE write](#JumpTag0)|[MidJourney Prompt Generator](#JumpTag1)|[Buyer Persona Legend](#JumpTag2)|
+|[Write A Book](#JumpTag3)|[Youtube script creator](#JumpTag4)|[SEO2](#JumpTag5)|
+|[content rewriter](#JumpTag6)|[blog](#JumpTag7)|[instagram](#JumpTag8)|
+|[course creator](#JumpTag9)|[Python](#JumpTag10)|[Blog Post Titel generator](#JumpTag11)|
+|[30 social media posts](#JumpTag12)|[SEO3](#JumpTag13)|[high-converting facebook ad](#JumpTag14)|
+|[Meta-Title & Description](#JumpTag15)|[Stable Diffusion Prompt3](#JumpTag16)|[TLDR](#JumpTag17)|
+|[EEAT Evaluating](#JumpTag18)|[generic code generator](#JumpTag19)|[Google Business Profile](#JumpTag20)|
+|[Quora Answer](#JumpTag21)|[Product Description](#JumpTag22)|[15 GMB posts](#JumpTag23)|
+|[HashTags](#JumpTag24)|[E-E-A-T Blogs](#JumpTag25)||
