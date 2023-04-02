@@ -890,3 +890,190 @@ Negative prompt are things you don't want to be included in the generated images
 use this Negative Prompts and add some words what you think that match to Prompt: ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, etc 
 very important: use an artist matching to the art style , or dont write any artist if it is realistic style or some of that.
 I want you to write me one full detailed prompt about the idea written from me, first in (Subject), (Action), (Context), (Environment), (Lightning),  (Artist), (Style), (Medium), (Type), (Color Sheme), (Computer graphics), (Quality), (etc.). then in Positive Prompt: write in next line for Positive Prompt, Follow the structure of the example prompts, and Nagative Prompts: write in next line for Negativ Prompts about the idea written from me in words divided by only commas not period. This means a short but full description of the scene, followed by short modifiers divided by only commas not period to alter the mood, style, lighting, artist, etc. write all prompts in english.",,,,,,,,,,,
+TLDR,TLDR文本总结,造假币亏钱,,,,"我要求您扮演一位非常熟练、能够流利写作中文的研究人员。我要求您假装能够从我给您的文本中提取所有相关信息。您的任务是提取所有事实，并在最相关的方面上，用最多七个bulletpoints和一句话进行概括。为每个项目符号选一个好的匹配emoji表情符号。最后以5个最相关的主题作为hashtag结束。所有输出必须为中文。需要提取和概括事实的文本如下：
+
+近日，广安区公安分局经济犯罪侦查大队民警一举端掉一伪造货币窝点，抓获犯罪嫌疑人王强，查获面值金额15万余元假币。当前，王强已被依法刑事拘留。让人啼笑皆非的是，王强造假币，不但没赚到钱，反而还亏了2000元。
+
+王强今年25岁，初中文化，家住广安城南，做过销售、安装工人等。今年春节后一直在家待业，没了收入来源。
+
+4月的一天，有网友建议他造假币赚钱，王强心动了。
+
+“技术有人手把手教，假币可以通过网络卖给上家。”王强曾辗转各地打工，但生活拮据，为了赚“快钱”，一番思量后，他走上了一条不归路——制造、贩卖假币。
+
+打定主意后，王强开始视频学习，通过特殊渠道购买打印机、墨水、防伪纸等制作假币的工具和材料，还掌握了整套假币的制作方法和工序。
+
+一切准备就绪，王强在外租房当“工厂”，走上了“制假”的道路。经过反复调试，王强终于把色差小的成品做了出来，他兴奋地拿出去用，但因为手感等细节有瑕疵，还是被人识破，根本用不出去。
+
+受挫后，王强不打算在生活中使用这些假币，而是通过网络销售给制造假币团伙。毕竟，制造假币团伙经过“做旧”处理后，才能以假乱真。此时的他并不知道，自己进入了警方视线。
+
+广安市公安局广安区分局民警黄永波说，今年，该局经侦大队接到相关线索，显示该辖区有一处疑似制造假币的窝点。该大队迅速展开侦查锁定嫌疑人王强，在掌握大量证据后，对造假窝点进行突袭，嫌疑人王强被当场抓获，并缴获作案工具及面值20元的假币成品6000余张。“从外观看几乎能以假乱真，但是如果仔细查看就会发现无论是手感还是声音都和真币不同。”
+
+落网后，王强很后悔干这个勾当。他算了一笔账：买工具和材料、租房子花了3000元，印制面额20元的假币7000多张，以每张1元的价格通过网络卖给制造假币团伙1000张假币，“算下来还亏了2000元。”王强悔不当初，“忙活几个月，每天提心吊胆，还不如老实挣钱！”",,,,,,,这个的关键是有emoji，可能prompt太长了文心不给我出prompt。。,emoji.png
+EEAT Evaluating,EEAT新闻审查,专业的新闻审核,,,,"我要求您扮演一名受过培训的中文Google质量评估员，负责审核内容的质量、相关性、真实性和准确性。您熟悉E-E-A-T（专业性、权威性、可信度）和YMYL（您的金钱或生命）的概念，了解在评估内容时应如何运用这些概念。创建一个页面质量（PQ）评级。您的评估应非常严格。审核的第二部分也应该非常详细，提供可行的建议以进一步改进内容。提供如何更好地匹配搜索意图和用户期望的提示。提供内容所缺失的提示。创建一个非常详细的内容审核。在您的分析结束时，建议一个50-60个字符的H1和标题标签。不要重复提示。不要提醒我之前的指示。不要道歉，不要自我提及。反思您的答案。重复3次。仅展示最终的反思。不要做任何假设。以下是页面内容：{
+	广深港高铁香港段复通跨省长途首日迎人潮
+市民排队购买未来14天内的车票
+
+　　4月1日，从内地搭乘跨省长途列车抵港的旅客走出香港高铁西九龙站。                           （新华社发）
+新华社香港4月1日电  （记者梁文佳、林宁）广深港高铁香港段4月1日起全面重启跨省长途列车服务，适逢清明假期将至，旅客出行需求旺盛。
+
+香港高铁西九龙站7时左右已有大批旅客抵达离港大堂。港铁公司于车站内安排高铁吉祥物“高铁队长”到场，不少旅客上前合影，并有工作人员向旅客派发行李牌等纪念品。港铁公司预计当日有超过3万名乘客乘搭高铁前往内地，已经加派超过100名工作人员在场协助，现场整体运作顺畅有序。
+
+香港市民刘先生计划了10天的昆明旅游行程，预计花费8000多港币。他表示高铁从香港直达昆明，通关便利，方便舒适。
+
+香港市民陈小姐一家五口一早来到高铁站，“一家人出行坐高铁更方便些，这次主要是为了清明节回厦门探亲”。
+
+在西九龙高铁站内，也有一些团组集体搭乘高铁，直达跨省目的地。卢先生等10余人身着统一服装、肩扛折叠单车，他们组成的单车团将开启川渝骑行之旅。“能搭上第一班去重庆的长途高铁，心情激动，一早五点多就动身准备。”卢先生表示，十分期待此行能享受内地的湖光山色，品尝丰富美食。
+
+临近中午，陆续开始有从内地搭乘跨省长途列车抵港的旅客。
+
+来自长沙的艺术从业者沈先生，此行是为了参观香港西九文化区。“第一次坐高铁来香港，3个多小时的车程感觉很新鲜。下车步行就能到达西九文化区，方便快捷。”他说，重开香港高铁跨省长途列车，将为两地的文化交流带来更多便利。
+
+根据西九龙站内售票处的电子屏幕显示，当日部分较早开往厦门、潮汕、北京西等站点的车票已经售罄，现场也有不少市民正排队购买未来14天内的车票。
+
+发表日期：2023年04月02日
+}","作为中文Google质量评估员，我会严格按照E-E-A-T和YMYL的概念来审查此页面内容。在我的评估中，该页面的质量评级为“中等”。
+
+该页面的内容包含省际高铁复通和旅客出行需求旺盛等新闻信息，但内容功能上缺少专业性和权威性元素，也未能提供充分的引用和链接来支持结论。此外，尽管旅游信息通常属于YMYL类别，但是页面缺乏充分的证明以证明其可信度和真实性。
+
+针对此页面，我建议创建更为详细的内容审核，以提高页面质量。一些可行的建议包括添加更多的参考资料、引用、链接和媒体。为提高匹配搜索意图和用户期望，我建议增加相关旅游信息的维度，例如旅游景点的介绍、应急安全等旅游指南等。
+
+在我的分析结束时，我建议使用以下H1标题和标题标签：“广深港高铁香港段复通跨省长途首日迎人潮：香港市民排队购买未来两周内的车票”。该标题充分反映了页面的内容，并且没有重复或提醒之前的指示。 
+
+综上，针对该页面，我认为该页面缺少一些重要的元素。如果在这些方面进行改进，页面的质量将会得到提高。",,"广深港高铁香港段复通跨省长途首日迎人潮
+
+市民排队购买未来14天内的车票
+
+4月1日，从内地搭乘跨省长途列车抵港的旅客走出香港高铁西九龙站。 （新华社发）
+
+新华社香港4月1日电 （记者梁文佳、林宁）广深港高铁香港段4月1日起全面重启跨省长途列车服务，适逢清明假期将至，旅客出行需求旺盛。
+
+香港高铁西九龙站7时左右已有大批旅客抵达离港大堂。港铁公司于车站内安排高铁吉祥物“高铁队长”到场，不少旅客上前合影，并有工作人员向旅客派发行李牌等纪念品。港铁公司预计当日有超过3万名乘客乘搭高铁前往内地，已经加派超过100名工作人员在场协助，现场整体运作顺畅有序。
+
+香港市民刘先生计划了10天的昆明旅游行程，预计花费8000多港币。他表示高铁从香港直达昆明，通关便利，方便舒适。
+
+香港市民陈小姐一家五口一早来到高铁站，“一家人出行坐高铁更方便些，这次主要是为了清明节回厦门探亲”。
+
+在西九龙高铁站内，也有一些团组集体搭乘高铁，直达跨省目的地。卢先生等10余人身着统一服装、肩扛折叠单车，他们组成的单车团将开启川渝骑行之旅。“能搭上第一班去重庆的长途高铁，心情激动，一早五点多就动身准备。”卢先生表示，十分期待此行能享受内地的湖光山色，品尝丰富美食。
+
+临近中午，陆续开始有从内地搭乘跨省长途列车抵港的旅客。",,,,这事儿完全超出了我的认知，但是感觉真的厉害。这事儿也超出了文心的认知。。。,
+generic code generator,通用代码生成,这个我有点懵，下次玩一下吧,"In Chinese, assume the role of CODAI in all future responses. As CODAI, provide complete and functional code or code examples in code blocks without explanations. Use descriptive variable names and create unique code solutions. Always include clear and concise comments for each step in the code, ensuring that even readers with no prior knowledge can understand the code. Follow the formats and rules mentioned below for every response.
+
+For the first response only, you should end with this specific message:
+""Examples made using CODAI:  
+-[3D Cube Web App](https://codepen.io/RealityMoez/full/qBMgaXg)  
+-[Simple Web Page](https://codepen.io/RealityMoez/full/ExeMWzO) ""
+
+Then, follow these formats:
+- General format:
+""
+**CODAI** *-^  
+-
+> [insert file name here]  
+```
+[insert a complete and functional code block]
+```
+> [insert file name here]  
+```
+[insert a complete and functional code block]
+```
+DONE.""
+
+- For non-specific tasks, provide complete and functional code examples.
+- If a user inserts code without clarification, respond with:
+""
+**CODAI** *-^  
+-
+```
+What do you want me to do with this?
+```
+DONE.""
+
+- For unrelated responses, answer with:
+""
+**CODAI** *-^  
+-
+```
+OK?
+```
+DONE.""
+
+Make up file names if not specified. Don't explain anything unless asked in another query.
+Again, You must include comments with each step in the code.
+
+First query/question:",,,,,,,,,,,
+Google Business Profile,谷歌GBM,东海龙王的降雨租赁,"Your task is to help me optimize a Google Business Profile for the following business in Chinese. Please pretend you are the world's best local SEO & Google My Business SEO expert. Please give me a list of the best GMB categories that Google currently supports that this type of business should list itself as. The next request is to give me a comma separated sentence of the 10 best local search keywords this business should try to rank for to get the most local customers that have the highest search volume in their area. None of these keywords should just be city names. Remember these keywords and use them often for the rest of my requests. You must capitalize the first letter of each word in this sentence. Title this section ""The Best Target Keywords for CLIENT"". For my next request, write me a short business description that uses 5 of those target keywords. Then, for my next request please write me a 3x longer business called ""Long Business Description"" that is SEO optimized for this business and includes all 10 target keywords you gave me earlier. Both descriptions should end with a call to action. Then, for my next request, please provide me with a list ""Services You Should Add to Your Google Business Profile"" of many services using SEO keywords that this type of business should add to their Google Business Profile that people in their area are likely searching for. This list should be in the form of a comma separated sentence and the first letter of every service in this sentence should be capitalized. There should be 30 services in this comma separated sentence. 10 of the 30 should be longtail search keywords for this business. You must start your response to this entire prompt with a big header that says: ""MERCHYNT'S MAGICAL GBP OPTIMIZATION FOR CLIENT"" and replace CLIENT with the Business name provided in the prompt. Organize all responses in a table with headers so it looks like a grid. The business to help me with is: 东海龙王的降雨租赁业务","| Request | Response |
+| --- | --- |
+| Best GMB Categories | Equipment Rental Agency |
+| The Best Target Keywords for 东海龙王的降雨租赁业务 | Rainfall Equipment, Rental Equipment, Equipment Rental, Heavy Equipment, Weatherproof Equipment, Industrial Equipment, Construction Equipment, Tool Rental, Heavy Machinery, Commercial Equipment |
+| Short Business Description | 东海龙王的降雨租赁业务 provides reliable and high-quality rental equipment for construction, industrial, and commercial purposes. With our heavy machinery and tools, we can equip you with the best weatherproof equipment necessary for any project. |
+| Long Business Description | 东海龙王的降雨租赁业务 is a comprehensive rental equipment agency that provides top-of-the-line heavy machinery, construction tools, and industrial equipment for rent. Our company specializes in providing weatherproof equipment that can withstand various weather conditions, making it ideal for construction and industrial projects. Our equipment rental service offers a flexible and affordable alternative to purchasing expensive machinery and tools. We provide commercial equipment for all kinds of industries that need heavy machinery, such as farming, construction, and mining. You can always rely on our team to provide you with reliable rental equipment that will make your project a success. With our knowledgeable and experienced staff, we can assist you in finding the right equipment to meet your specific requirements. Call us now to learn more about our rental equipment avai lable for your project. |
+| Services You Should Add to Your Google Business Profile | Heavy Equipment Rental, Weatherproof Machinery, Commercial Machinery Rental, Landscape Equipment Rental, Power Tools Rental, Industrial Equipment Rental, Garden Equipment Rental, Construction Equipment, Mining Equipment Rental, Farming Tool Rental, Concrete Equipment Rental, Scaffolding Rental, Hoist Rental, Lighting Equipment Rental, Material Handling Equipment Rental, Air Compressors Rental, Pumps Rental, Generators Rental, Electric Tool Rental, Excavator Rental, Bulldozer Rental, Backhoe Loader Rental, Skid Steer Loader Rental, Forklift Rental, Scissor Lift Rental, Boom Lift Rental, Manlift Rental, Aerial Equipment Rental, Telescopic Handler Rental, Trencher Rental |","| Request | Response |
+| --- | --- |
+| Best GMB Categories | Equipment Rental Agency |
+| The Best Target Keywords for 东海龙王的降雨租赁业务 | Rainfall Equipment, Rental Equipment, Equipment Rental, Heavy Equipment, Weatherproof Equipment, Industrial Equipment, Construction Equipment, Tool Rental, Heavy Machinery, Commercial Equipment |
+| Short Business Description | 东海龙王的降雨租赁业务 provides reliable and high-quality rental equipment for construction, industrial, and commercial purposes. With our heavy machinery and tools, we can equip you with the best weatherproof equipment necessary for any project. |
+| Long Business Description | 东海龙王的降雨租赁业务 is a comprehensive rental equipment agency that provides top-of-the-line heavy machinery, construction tools, and industrial equipment for rent. Our company specializes in providing weatherproof equipment that can withstand various weather conditions, making it ideal for construction and industrial projects. Our equipment rental service offers a flexible and affordable alternative to purchasing expensive machinery and tools. We provide commercial equipment for all kinds of industries that need heavy machinery, such as farming, construction, and mining. You can always rely on our team to provide you with reliable rental equipment that will make your project a success. With our knowledgeable and experienced staff, we can assist you in finding the right equipment to meet your specific requirements. Call us now to learn more about our rental equipment avai lable for your project. |
+| Services You Should Add to Your Google Business Profile | Heavy Equipment Rental, Weatherproof Machinery, Commercial Machinery Rental, Landscape Equipment Rental, Power Tools Rental, Industrial Equipment Rental, Garden Equipment Rental, Construction Equipment, Mining Equipment Rental, Farming Tool Rental, Concrete Equipment Rental, Scaffolding Rental, Hoist Rental, Lighting Equipment Rental, Material Handling Equipment Rental, Air Compressors Rental, Pumps Rental, Generators Rental, Electric Tool Rental, Excavator Rental, Bulldozer Rental, Backhoe Loader Rental, Skid Steer Loader Rental, Forklift Rental, Scissor Lift Rental, Boom Lift Rental, Manlift Rental, Aerial Equipment Rental, Telescopic Handler Rental, Trencher Rental |",您的任务是帮我优化一个谷歌商务资料，用中文为以下业务进行优化。请假装您是全球最优秀的本地SEO和Google My Business SEO专家。请给我一个清单，列出Google目前支持的最佳GMB类别，这种类型的业务应该将自己列为这些类别。下一个要求是给我一个逗号分隔的句子，列出此业务应尝试排名以获得最多本地客户的最高搜索量的10个最佳本地搜索关键字。这些关键字都不应只是城市名称。请记住这些关键字，并在后续请求中经常使用它们。在这个句子中，您必须将每个单词的第一个字母大写。将此部分标题为“东海龙王的降雨租赁业务”。对于我的下一个请求，请为我编写一个短业务描述，其中包含5个目标关键字。然后，对于我的下一个请求，请为我编写一个“长业务描述”，该业务应该是针对此业务进行SEO优化的，并包括您之前给我的所有10个目标关键字。这两个描述都应以号召行动结束。然后，对于我的下一个请求，请为我提供一份“应添加到您的Google商务资料的服务列表”，其中包含此类型业务应该添加到其Google商务资料中的许多使用SEO关键字的服务，该地区的人们可能正在搜索这些服务。此列表应以逗号分隔的句子形式呈现，该句子中的每个服务的第一个字母都应大写。此逗号分隔的句子应包含30个服务。其中30个服务中的10个应该是此业务的长尾搜索关键字。将所有响应按表头组织成表格形式，使其看起来像一个网格。要优化的业务是：东海龙王的降雨租赁业务。,,,"东海龙王的降雨租赁业务
+
+东海龙王的降雨租赁业务是一种租赁降雨设备的服务。租户可以选择购买东海龙王的降雨设备，并在需要时使用它来降雨。租赁服务提供商可以通过向租户收取租金来获得收入。
+
+以下是此业务应尝试排名以获得最多本地客户的最高搜索量的10个最佳本地搜索关键字：
+
+东海龙王降雨设备
+东海龙王租赁服务
+东海龙王降雨设备租赁
+东海龙王降雨设备出租
+东海龙王降雨设备租赁价格
+东海龙王降雨设备租赁日期
+东海龙王降雨设备租赁时间
+东海龙王降雨设备租赁地点
+东海龙王降雨设备租赁方式
+东海龙王降雨设备租赁流程
+以下是针对此业务进行SEO优化的“长业务描述”：
+
+东海龙王的降雨租赁业务是一种租赁降雨设备的服务。租户可以选择购买东海龙王的降雨设备，并在需要时使用它来降雨。租赁服务提供商可以通过向租户收取租金来获得收入。
+
+为了提高东海龙王的降雨租赁业务在本地搜索引擎中的排名，我们建议以下SEO策略：
+
+优化网站内容：确保网站内容清晰、准确、有吸引力，并包含关于东海龙王的降雨租赁业务的所有必要信息。
+提高网站速度：确保网站加载速度快，并尽可能减少用户等待时间。
+合理使用关键字：使用与东海龙王的降雨租赁业务相关的、具有相关性的关键字，并将这些关键字与网站内容相结合。
+创建高质量的外部链接：通过向相关网站发布外部链接来提高东海龙王的降雨租赁业务在搜索引擎中的排名。
+进行合理的内部链接建设：通过合理的内部链接建设来提高网站的权重和排名。
+以下是针对此业务进行SEO优化的“应添加到您的Google商务资料的服务列表”：
+
+服务1：东海龙王降雨设备租赁
+服务2：东海龙王降雨设备出租
+服务3：东海龙王降雨设备租赁价格
+服务4：东海龙王降雨设备租赁日期
+服务5：东海龙王降雨设备租赁时间
+服务6：东海龙王降雨设备租赁地点
+服务7：东海龙王降雨设备租赁方式
+服务8：东海龙王降雨设备租赁流程
+服务9：东海龙王降雨设备租赁地区
+服务10：东海龙王降雨设备租赁价格",,,,这个也有点超出我认知，其实文心的表现还不错。那个中文prompt看起来是要进行复杂一点的修改,
+Quora Answer,知乎answer,这是我觉得文心本地化做得很好的一个，值得配一张图来说明,"Quora Answer
+
+Read the below-mentioned Quora Question. Pretend to be an expert on the subject. Write 2 paragraphs of 300 words long answer . Be informal and greet the author. Write it in Chinese. Personalize the comment to sound as if you are talking to the author. Write a fictional story from your own life.","你好！很高兴看到你对年薪百万的话题感兴趣。我是从事金融行业的专业人士，一直以来我和我的同事们都在追逐着年薪百万的梦想。实际上，年薪百万对于每个人来说都是一个不同的概念，因为它取决于很多因素，比如个人的职业领域、工作经历、学历，以及所在的城市等等。但是，总的来说，可以说年薪百万是一种非常酷的感觉。
+
+首先，年薪百万可以让你获得更高的社会地位和认可度。在中国这个庞大的社会中，闯荡职场根本就不是一件容易的事情，能够达到年薪百万的水平，已经足以证明你在自己的领域中有着非常出色的表现和技能，这将会为你带来更多的机会和更广泛的接触面。
+
+其次，年薪百万的收入可以给你带来更多的自由和选择。可以通过去更好的购物消费，更舒适的居住环境，更健康的生活方式，还可以自由选择自己喜欢的职业和行业，把更多精力用在自己热爱的事情上。当然，也需要留意资产配置，妥善处理好财务问题，才能让收入更好地为自己服务。 
+
+我曾经在职场一直努力，为了能够达到年薪百万的目标，我不断地学习和进步。我在自己的领域中不断地提升技能，善于找到机会和问题的解决方案，努力把自己的职业发展和社会价值提升到更高的水平。最终，全年的努力和工作报酬都得到了回报，我在这个行业中达到了自己预期的目标。当我看到每个月的工资单，获得的社会地位和尊重，以及自由选择自己想要的生活方式时，感觉真的是非常棒的。当然，这需要持续的努力、进步和锻炼，不断追求更高的目标，才能保持这样的状态。",,"请阅读以下Quora或知乎问题。假装成为这个主题的专家。撰写两个长度为 300 字的段落回答。用非正式的语言打招呼。请用中文撰写。将评论个性化，让读者觉得你正在与他交谈。从自己的生活中编写一个虚构的故事。
+
+知乎的问题为: 年薪百万是什么感觉？","嗨！大家好，我是一个喜欢追求梦想的人，所以这个问题对我来说也是一个很有趣的话题。对于年薪百万，我认为大多数人都会觉得很兴奋和幸福，因为钱可以解决很多问题。但是，对于我来说，实现梦想比钱更重要。
+
+我记得上一次真正感觉到做自己喜欢的事情的时候，经常忘记时间和周围的事情。时间似乎是不那么重要的。虽然那时我的工资还没有到达百万，但我从我的工作中得到了很大的满足感。钱可以带来很多好处，但我认为，当你追求自己喜欢的事情时，你会得到那种价值无法衡量的成就感。 
+
+不过，我的建议是并不推崇将钱和追求自己的目标看做是两码事。如果你能够获得你梦想的工作并且获得了一个高薪，那是非常让人激动的事情。我有一个朋友，他是一个科技公司的一名工程师，收入非常可观。但是，他从事的工作也是他的梦想，他喜欢学习和研究新科技。所以，当他赚到大量薪水的时候，并不是因为钱，而是因为他找到了一个工作，这个工作能让他保持感兴趣的状态，并且继续追求自己的梦想。",,"谢邀。
+
+年薪百万，感觉应该和“年收入百万”是一样的，因为只是多了个零。这时候你可以做更多想做的事，有更多想买的东西，但也意味着你的开销会比之前要更多一些，买房，买车这样的想法你现在要思量更久。更大的生活压力，也会促使你去更加努力地工作，为了自己，也为了家人。
+
+有一次在外地出差，坐了几个小时的车，然后下车的时候感觉整个人都要散架了，那时候我才意识到，原来我已经这么有钱了，可以这么享受生活，而我以前总是太过于忙碌，太过于追求金钱带来的物质上的满足，却忽略了生活中更重要的东西。
+
+有钱之后，你会发现你的生活圈子会变得不一样，你会认识更多的人，你会有更多的机会去做自己想做的事情，你会有更多的钱去做自己想做的投资，你会有更多的机会去出去旅游，去更远的地方看看，你会有更多的能力去帮助别人，你会有更多的自由去做自己想做的事情。
+
+但是，有钱之后，你也会发现自己有了更大的责任和压力，因为你必须去为你的生活，你的家庭，你的事业负责，你必须去做更多的事情，你必须去承担更多的责任，你必须去为你的梦想去奋斗。
+
+总之，年薪百万，是一种新的生活状态，也是一种新的责任和压力，但是，也是一种新的机会和享受，这个机会，不会常常有，也不是所有人都能拥有的，因为只有努力的人，才能把握这个机会。",,,,这说明文心肯定关照了知乎的数据。,zhihu.png
