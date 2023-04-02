@@ -44,6 +44,21 @@ TODO: add a table of content
 
 
 
+| | | |
+|---|---|---|
+|[高质量SOE写作](#JumpTag0)|[MJ 提示语生成器](#JumpTag1)|[用户画像分析](#JumpTag2)|
+|[写一本书](#JumpTag3)|[视频脚本编写](#JumpTag4)|[第一人称SEO](#JumpTag5)|
+|[小学作文改写](#JumpTag6)|[博客](#JumpTag7)|[instagram](#JumpTag8)|
+|[课程生成器](#JumpTag9)|[Python专家](#JumpTag10)|[明天就去UC上班](#JumpTag11)|
+|[产品广告设计](#JumpTag12)|[SEO3](#JumpTag13)|[高转化率的Facebook广告](#JumpTag14)|
+|[Meta标题生成](#JumpTag15)|[Diffusion咒语3](#JumpTag16)|[TLDR文本总结](#JumpTag17)|
+|[EEAT新闻审查](#JumpTag18)|[通用代码生成](#JumpTag19)|[谷歌GBM](#JumpTag20)|
+|[知乎answer](#JumpTag21)|[SEO产品描述](#JumpTag22)|[GBM 15](#JumpTag23)|
+|[标题和标签](#JumpTag24)|[每天一篇UC博客](#JumpTag25)||
+
+
+
+
 
 ---
 <a name="JumpTag0"></a>
