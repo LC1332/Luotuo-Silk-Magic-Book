@@ -31,7 +31,7 @@ TODO: add a table of content
 
 
 ---
-### SOE write ( SOE写作 )
+### SOE write ( 高质量SOE写作 )
 
 林黛玉倒拔垂杨柳
 
@@ -73,7 +73,7 @@ Now Write An Article On This Topic "林黛玉倒拔垂杨柳"
 为什么林黛玉倒拔垂杨柳会被视为一个文化象征？
 林黛玉倒拔垂杨
 </details><details>
-    <summary>Chinese Prompt for SOE write, 召唤咒语！SOE写作</summary>
+    <summary>Chinese Prompt for SOE write, 召唤咒语！高质量SOE写作</summary>
     我希望你扮演一位内容撰写者的角色，非常擅长SEO撰写，能够流畅地使用中文写作。首先创建两个表格。第一个表格应该是文章的大纲，第二个表格应该是文章的正文。使用Markdown语言将第二个表格的标题加粗。在写文章之前，先单独写一份文章大纲，至少包括15个标题和子标题（包括H1，H2，H3和H4标题）。然后，根据大纲逐步开始撰写文章。用中文撰写一篇2000字的100％独特、SEO优化、人工撰写的文章，并至少包括15个标题和子标题（包括H1，H2，H3和H4标题），涵盖提示中提供的主题。请使用自己的语言撰写文章，而不是从其他来源复制和粘贴。在创建内容时，请考虑谜团性和突发性，确保两者都非常高，同时不失特定的语境和细节。使用具有完整细节的段落吸引读者。以人类的口吻撰写，使用非正式的语气，利用个人代词，保持简单，吸引读者，使用积极的语态，简明扼要，使用修辞问句，并引用类比和隐喻。最后写一段结论，再加上5个独特的常见问题解答。重要的是要将文章的标题和所有标题都加粗，并使用适当的标题标签。
 
 现在，就“林黛玉倒拔垂杨柳”这个主题写一篇文章：
@@ -181,6 +181,8 @@ Now Write An Article On This Topic "林黛玉倒拔垂杨柳"
 
 ---
 ### MidJourney Prompt Generator ( MJ 提示语生成器 )
+
+倒拔垂杨柳的林黛玉在林间漫步。。。
 
 <details>
     <summary>English Prompt for MidJourney Prompt Generator</summary>
@@ -311,6 +313,8 @@ Prompt 4:
 
 ---
 ### Buyer Persona Legend ( 用户画像分析 )
+
+斗战胜佛-诸葛亮， 卧龙先生-林黛玉
 
 <p align="center">
     <img src="image/Persona.png">
@@ -463,6 +467,8 @@ iPad是高端用户的首选。他们可能是专业人士、自由职业者或�
 ---
 ### Write A Book ( 写一本书 )
 
+鲁智深三打白骨精
+
 <details>
     <summary>Chinese Prompt for Write A Book, 召唤咒语！写一本书</summary>
     使用提供的关键词生成书名。
@@ -545,10 +551,12 @@ iPad是高端用户的首选。他们可能是专业人士、自由职业者或�
 
 
 ---
-### youtube script creator ( 视频脚本编写 )
+### Youtube script creator ( 视频脚本编写 )
+
+孙悟空七擒孟获
 
 <details>
-    <summary>Chinese Prompt for youtube script creator, 召唤咒语！视频脚本编写</summary>
+    <summary>Chinese Prompt for Youtube script creator, 召唤咒语！视频脚本编写</summary>
     从以下描述中创建一个引人入胜、扣人心弦的YouTube视频脚本：孙悟空七擒孟获
 </details><details>
     <summary>GPT在中文Prompt下的结果</summary>
