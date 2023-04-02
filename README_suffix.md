@@ -50,14 +50,14 @@ Please cite the repo if you use the data or code in this repo.
 
 test table
 
- | | 
----|---|---
-SOE write|MidJourney Prompt Generator|Buyer Persona Legend
-Write A Book|Youtube script creator|SEO2
-content rewriter|blog|instagram
-course creator|Python|Blog Post Titel generator
-30 social media posts|SEO3|high-converting facebook ad
-Meta-Title & Description|Stable Diffusion Prompt3|TLDR
-EEAT Evaluating|generic code generator|Google Business Profile
-Quora Answer|Product Description|15 GMB posts
-HashTags|E-E-A-T Blogs|
+| | | |
+|---|---|---|
+|SOE write|MidJourney Prompt Generator|Buyer Persona Legend|
+|Write A Book|Youtube script creator|SEO2|
+|content rewriter|blog|instagram|
+|course creator|Python|Blog Post Titel generator|
+|30 social media posts|SEO3|high-converting facebook ad|
+|Meta-Title & Description|Stable Diffusion Prompt3|TLDR|
+|EEAT Evaluating|generic code generator|Google Business Profile|
+|Quora Answer|Product Description|15 GMB posts|
+|HashTags|E-E-A-T Blogs||
