@@ -30,7 +30,7 @@ Please visit our home page repo [https://github.com/LC1332/Luotuo-Chinese-LLM](h
 
 | | | |
 |---|---|---|
-|[SOE write](#JumpTag0)|[MidJourney Prompt Generator](#JumpTag1)|[Buyer Persona Legend](#JumpTag2)|
+|[SEO write](#JumpTag0)|[MidJourney Prompt Generator](#JumpTag1)|[Buyer Persona Legend](#JumpTag2)|
 |[Write A Book](#JumpTag3)|[Youtube script creator](#JumpTag4)|[SEO2](#JumpTag5)|
 |[content rewriter](#JumpTag6)|[blog](#JumpTag7)|[instagram](#JumpTag8)|
 |[course creator](#JumpTag9)|[Python](#JumpTag10)|[Blog Post Titel generator](#JumpTag11)|
@@ -45,7 +45,7 @@ Please visit our home page repo [https://github.com/LC1332/Luotuo-Chinese-LLM](h
 
 | | | |
 |---|---|---|
-|[高质量SOE写作](#JumpTag0)|[MJ 提示语生成器](#JumpTag1)|[用户画像分析](#JumpTag2)|
+|[高质量SEO写作](#JumpTag0)|[MJ 提示语生成器](#JumpTag1)|[用户画像分析](#JumpTag2)|
 |[写一本书](#JumpTag3)|[视频脚本编写](#JumpTag4)|[第一人称SEO](#JumpTag5)|
 |[小学作文改写](#JumpTag6)|[博客](#JumpTag7)|[instagram](#JumpTag8)|
 |[课程生成器](#JumpTag9)|[Python专家](#JumpTag10)|[明天就去UC上班](#JumpTag11)|
@@ -62,14 +62,14 @@ Please visit our home page repo [https://github.com/LC1332/Luotuo-Chinese-LLM](h
 ---
 <a name="JumpTag0"></a>
 
-### SOE write ( 高质量SOE写作 )
+### SEO write ( 高质量SEO写作 )
 
 林黛玉倒拔垂杨柳
 
 <p align="center">
-    <img src="image/SOE.png">
+    <img src="image/SEO.png">
 </p><details>
-    <summary>English Prompt for SOE write</summary>
+    <summary>English Prompt for SEO write</summary>
     I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently Chinese. First Create Two Tables. First Table Should be the Outline of the Article and the Second Should be the Article. Bold the Heading of the Second Table using Markdown language. Write an outline of the article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step. Write a 2000-word 100% Unique, SEO-optimized, Human-Written article in Chinese with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  End with a conclusion paragraph and 5 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags.
 Now Write An Article On This Topic "林黛玉倒拔垂杨柳"
 </details><details>
@@ -104,7 +104,7 @@ Now Write An Article On This Topic "林黛玉倒拔垂杨柳"
 为什么林黛玉倒拔垂杨柳会被视为一个文化象征？
 林黛玉倒拔垂杨
 </details><details>
-    <summary>Chinese Prompt for SOE write, 召唤咒语！高质量SOE写作</summary>
+    <summary>Chinese Prompt for SEO write, 召唤咒语！高质量SEO写作</summary>
     我希望你扮演一位内容撰写者的角色，非常擅长SEO撰写，能够流畅地使用中文写作。首先创建两个表格。第一个表格应该是文章的大纲，第二个表格应该是文章的正文。使用Markdown语言将第二个表格的标题加粗。在写文章之前，先单独写一份文章大纲，至少包括15个标题和子标题（包括H1，H2，H3和H4标题）。然后，根据大纲逐步开始撰写文章。用中文撰写一篇2000字的100％独特、SEO优化、人工撰写的文章，并至少包括15个标题和子标题（包括H1，H2，H3和H4标题），涵盖提示中提供的主题。请使用自己的语言撰写文章，而不是从其他来源复制和粘贴。在创建内容时，请考虑谜团性和突发性，确保两者都非常高，同时不失特定的语境和细节。使用具有完整细节的段落吸引读者。以人类的口吻撰写，使用非正式的语气，利用个人代词，保持简单，吸引读者，使用积极的语态，简明扼要，使用修辞问句，并引用类比和隐喻。最后写一段结论，再加上5个独特的常见问题解答。重要的是要将文章的标题和所有标题都加粗，并使用适当的标题标签。
 
 现在，就“林黛玉倒拔垂杨柳”这个主题写一篇文章：
